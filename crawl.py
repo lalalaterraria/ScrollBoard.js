@@ -1,7 +1,7 @@
 # 参数
-url="http://106.15.248.8:8081" # OJ地址
-username="lalalaterraria" # 用户名，需使用管理员账户来免除密码输入
-password="ajziyin" # 密码
+url="http://106..." # OJ地址
+username="la..." # 用户名，需使用管理员账户来免除密码输入
+password="aj..." # 密码
 contest_name="2019年华南理工大学软件学院“新生杯”正式赛" # 比赛名称
 wait_time=1 # js动态加载响应时间
 stored_path="data/data.json" # 存储路径
