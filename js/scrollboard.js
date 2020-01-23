@@ -43,20 +43,14 @@ function getSubmitList() {
     $.ajax({
         type: "GET",
         content: "application/x-www-form-urlencoded",
-        url: "data/12thSubmitData.json",
+        url: "data/data.json",
         dataType: "json",
         data: {},
         async: false,
         success: function(result) {
-            for (var i in result.data) {
-                var page = result.data[i];
-                for(var j in page.Status){
-                    var sub = page.Status[j];
-                    var ACode = 65;
-                    var startProblemId = 94;
-                    var alphabetId =String.fromCharCode(sub.pid-startProblemId+ACode);
-                    data.push(new Submit(sub.rid, sub.uname, alphabetId, StringToDate(sub.date), sub.status));
-                }
+            for (var key in result.data) {
+                var sub = result.data[key];
+                data.push(new Submit(sub.submitId, sub.username, sub.alphabetId, sub.subTime, sub.resultId));
             }
 
         },
@@ -101,14 +95,14 @@ function getTeamList() {
     $.ajax({
         type: "GET",
         content: "application/x-www-form-urlencoded",
-        url: "data/12thTeamData.json",
+        url: "data/data.json",
         dataType: "json",
         async: false,
         data: {},
         success: function(result) {
-            for (var key in result.users) {
-                var team = result.users[key];
-                data[team.username] = new Team(team.username, team.nickname, null, 1);
+            for (var key in result.data) {
+                var team = result.data[key];
+                data[team.username] = new Team(team.username, team.username, null, 1);
             }
         },
         error: function() {
@@ -598,7 +592,7 @@ Board.prototype.updateTeamStatus = function(team) {
                 //传参，不懂原理，用此可以在动画的回调函数使用参数
                 (function(thisBoard, tProblem, problemHTML) {
                     //闪烁两次后显示未知题目的结果
-                    var speed = 400; //闪烁速度
+                    var speed = 200; //闪烁速度
                     $statusSpan.fadeOut(speed).fadeIn(speed).fadeOut(speed).fadeIn(speed, function() {
                         //更新题目表现状态
                         $(this).parent().html(problemHTML);
@@ -611,7 +605,7 @@ Board.prototype.updateTeamStatus = function(team) {
     //传参，不懂原理，用此可以在动画的回调函数使用参数
     (function(thisBoard, team) {
         //延时1.6s
-        $('#timer').animate({ margin: 0 }, 1600, function() {
+        $('#timer').animate({ margin: 0 }, 500, function() {
 
             /*
             更新Rank
@@ -675,11 +669,11 @@ Board.prototype.moveTeam = function(toPos) {
             var teamId = thisBoard.teamNextSequence[i].teamId;
             //延时2.2s后更新位置，为了等待题目状态更新完成
             if(toPos != -1)
-                $("div[team-id=\"" + teamId + "\"]").animate({ margin: 0 }, 2200).animate({ top: i * teamHeight + headerHeight }, 1000, function() {
+                $("div[team-id=\"" + teamId + "\"]").animate({ margin: 0 }, 1100).animate({ top: i * teamHeight + headerHeight }, 1000, function() {
                     thisBoard.noAnimate = true;
                 });
             else
-                $("div[team-id=\"" + teamId + "\"]").animate({ margin: 0 }, 1800 ,function() {
+                $("div[team-id=\"" + teamId + "\"]").animate({ margin: 0 }, 900,function() {
                     thisBoard.noAnimate = true;
                 });
         }

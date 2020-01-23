@@ -2,6 +2,13 @@
     "total": 2039,
     "data": [
         {
+            "submitId": 0,
+            "username": "NewbieCup2019_31",
+            "alphabetId": "C",
+            "subTime": "2019-11-10  16:59:59",
+            "resultId": 4
+        },
+        {
             "submitId": 1,
             "username": "NewbieCup2019_43",
             "alphabetId": "H",
@@ -10,14 +17,14 @@
         },
         {
             "submitId": 3,
-            "username": "test_8",
+            "username": "NewbieCup2019_8",
             "alphabetId": "C",
             "subTime": "2019-11-10  16:59:55",
             "resultId": 4
         },
         {
             "submitId": 4,
-            "username": "test_12",
+            "username": "NewbieCup2019_12",
             "alphabetId": "G",
             "subTime": "2019-11-10  16:59:53",
             "resultId": 4
@@ -27,6 +34,13 @@
             "username": "NewbieCup2019_38",
             "alphabetId": "C",
             "subTime": "2019-11-10  16:59:50",
+            "resultId": 4
+        },
+        {
+            "submitId": 6,
+            "username": "NewbieCup2019_1",
+            "alphabetId": "F",
+            "subTime": "2019-11-10  16:59:37",
             "resultId": 4
         },
         {
@@ -52,7 +66,7 @@
         },
         {
             "submitId": 10,
-            "username": "test_29",
+            "username": "NewbieCup2019_29",
             "alphabetId": "L",
             "subTime": "2019-11-10  16:59:19",
             "resultId": 4
@@ -87,7 +101,7 @@
         },
         {
             "submitId": 15,
-            "username": "test_2",
+            "username": "NewbieCup2019_2",
             "alphabetId": "L",
             "subTime": "2019-11-10  16:58:59",
             "resultId": 4
@@ -150,7 +164,7 @@
         },
         {
             "submitId": 25,
-            "username": "test_22",
+            "username": "NewbieCup2019_22",
             "alphabetId": "I",
             "subTime": "2019-11-10  16:58:31",
             "resultId": 4
@@ -205,29 +219,36 @@
             "resultId": 4
         },
         {
+            "submitId": 33,
+            "username": "NewbieCup2019_31",
+            "alphabetId": "C",
+            "subTime": "2019-11-10  16:58:20",
+            "resultId": 4
+        },
+        {
             "submitId": 35,
-            "username": "test_8",
+            "username": "NewbieCup2019_8",
             "alphabetId": "M",
             "subTime": "2019-11-10  16:58:03",
             "resultId": 4
         },
         {
             "submitId": 36,
-            "username": "test_8",
+            "username": "NewbieCup2019_8",
             "alphabetId": "M",
             "subTime": "2019-11-10  16:58:03",
             "resultId": 4
         },
         {
             "submitId": 37,
-            "username": "test_8",
+            "username": "NewbieCup2019_8",
             "alphabetId": "M",
             "subTime": "2019-11-10  16:58:03",
             "resultId": 4
         },
         {
             "submitId": 38,
-            "username": "test_8",
+            "username": "NewbieCup2019_8",
             "alphabetId": "M",
             "subTime": "2019-11-10  16:57:55",
             "resultId": 4
@@ -241,7 +262,7 @@
         },
         {
             "submitId": 40,
-            "username": "test_25",
+            "username": "NewbieCup2019_25",
             "alphabetId": "H",
             "subTime": "2019-11-10  16:57:44",
             "resultId": 4
@@ -255,7 +276,7 @@
         },
         {
             "submitId": 42,
-            "username": "test_27",
+            "username": "NewbieCup2019_27",
             "alphabetId": "G",
             "subTime": "2019-11-10  16:57:39",
             "resultId": 4
@@ -268,8 +289,15 @@
             "resultId": 4
         },
         {
+            "submitId": 44,
+            "username": "NewbieCup2019_1",
+            "alphabetId": "H",
+            "subTime": "2019-11-10  16:57:19",
+            "resultId": 4
+        },
+        {
             "submitId": 45,
-            "username": "test_27",
+            "username": "NewbieCup2019_27",
             "alphabetId": "G",
             "subTime": "2019-11-10  16:57:14",
             "resultId": 4
@@ -279,6 +307,13 @@
             "username": "NewbieCup2019_71",
             "alphabetId": "G",
             "subTime": "2019-11-10  16:57:11",
+            "resultId": 4
+        },
+        {
+            "submitId": 47,
+            "username": "NewbieCup2019_31",
+            "alphabetId": "C",
+            "subTime": "2019-11-10  16:56:52",
             "resultId": 4
         },
         {
@@ -310,6 +345,13 @@
             "resultId": 4
         },
         {
+            "submitId": 52,
+            "username": "NewbieCup2019_1",
+            "alphabetId": "F",
+            "subTime": "2019-11-10  16:56:05",
+            "resultId": 4
+        },
+        {
             "submitId": 53,
             "username": "NewbieCup2019_67",
             "alphabetId": "H",
@@ -332,7 +374,7 @@
         },
         {
             "submitId": 56,
-            "username": "test_22",
+            "username": "NewbieCup2019_22",
             "alphabetId": "I",
             "subTime": "2019-11-10  16:55:42",
             "resultId": 4
@@ -346,7 +388,7 @@
         },
         {
             "submitId": 58,
-            "username": "test_14",
+            "username": "NewbieCup2019_14",
             "alphabetId": "D",
             "subTime": "2019-11-10  16:55:28",
             "resultId": 0
@@ -374,7 +416,7 @@
         },
         {
             "submitId": 62,
-            "username": "test_18",
+            "username": "NewbieCup2019_18",
             "alphabetId": "B",
             "subTime": "2019-11-10  16:55:02",
             "resultId": 4
@@ -451,7 +493,7 @@
         },
         {
             "submitId": 73,
-            "username": "test_14",
+            "username": "NewbieCup2019_14",
             "alphabetId": "D",
             "subTime": "2019-11-10  16:53:39",
             "resultId": 4
@@ -472,7 +514,7 @@
         },
         {
             "submitId": 76,
-            "username": "test_25",
+            "username": "NewbieCup2019_25",
             "alphabetId": "E",
             "subTime": "2019-11-10  16:53:30",
             "resultId": 4
@@ -486,7 +528,7 @@
         },
         {
             "submitId": 78,
-            "username": "test_24",
+            "username": "NewbieCup2019_24",
             "alphabetId": "D",
             "subTime": "2019-11-10  16:53:23",
             "resultId": 4
@@ -503,6 +545,13 @@
             "username": "NewbieCup2019_105",
             "alphabetId": "D",
             "subTime": "2019-11-10  16:53:07",
+            "resultId": 4
+        },
+        {
+            "submitId": 81,
+            "username": "NewbieCup2019_1",
+            "alphabetId": "F",
+            "subTime": "2019-11-10  16:52:57",
             "resultId": 4
         },
         {
@@ -570,14 +619,14 @@
         },
         {
             "submitId": 91,
-            "username": "test_17",
+            "username": "NewbieCup2019_17",
             "alphabetId": "L",
             "subTime": "2019-11-10  16:51:08",
             "resultId": 4
         },
         {
             "submitId": 92,
-            "username": "test_17",
+            "username": "NewbieCup2019_17",
             "alphabetId": "L",
             "subTime": "2019-11-10  16:50:57",
             "resultId": 4
@@ -633,14 +682,14 @@
         },
         {
             "submitId": 100,
-            "username": "test_17",
+            "username": "NewbieCup2019_17",
             "alphabetId": "L",
             "subTime": "2019-11-10  16:49:35",
             "resultId": 4
         },
         {
             "submitId": 101,
-            "username": "test_4",
+            "username": "NewbieCup2019_4",
             "alphabetId": "H",
             "subTime": "2019-11-10  16:47:59",
             "resultId": 4
@@ -682,7 +731,7 @@
         },
         {
             "submitId": 107,
-            "username": "test_24",
+            "username": "NewbieCup2019_24",
             "alphabetId": "D",
             "subTime": "2019-11-10  16:47:14",
             "resultId": 4
@@ -709,6 +758,13 @@
             "resultId": 4
         },
         {
+            "submitId": 111,
+            "username": "NewbieCup2019_1",
+            "alphabetId": "F",
+            "subTime": "2019-11-10  16:46:55",
+            "resultId": 4
+        },
+        {
             "submitId": 112,
             "username": "NewbieCup2019_59",
             "alphabetId": "I",
@@ -731,21 +787,21 @@
         },
         {
             "submitId": 115,
-            "username": "test_22",
+            "username": "NewbieCup2019_22",
             "alphabetId": "I",
             "subTime": "2019-11-10  16:46:20",
             "resultId": 4
         },
         {
             "submitId": 116,
-            "username": "test_18",
+            "username": "NewbieCup2019_18",
             "alphabetId": "B",
             "subTime": "2019-11-10  16:46:16",
             "resultId": 4
         },
         {
             "submitId": 117,
-            "username": "test_29",
+            "username": "NewbieCup2019_29",
             "alphabetId": "L",
             "subTime": "2019-11-10  16:46:12",
             "resultId": 4
@@ -815,7 +871,7 @@
         },
         {
             "submitId": 127,
-            "username": "test_2",
+            "username": "NewbieCup2019_2",
             "alphabetId": "K",
             "subTime": "2019-11-10  16:43:47",
             "resultId": 4
@@ -829,16 +885,23 @@
         },
         {
             "submitId": 129,
-            "username": "test_10",
+            "username": "NewbieCup2019_10",
             "alphabetId": "H",
             "subTime": "2019-11-10  16:43:24",
             "resultId": 4
         },
         {
             "submitId": 130,
-            "username": "test_8",
+            "username": "NewbieCup2019_8",
             "alphabetId": "C",
             "subTime": "2019-11-10  16:43:17",
+            "resultId": 4
+        },
+        {
+            "submitId": 131,
+            "username": "NewbieCup2019_1",
+            "alphabetId": "F",
+            "subTime": "2019-11-10  16:43:10",
             "resultId": 4
         },
         {
@@ -864,7 +927,7 @@
         },
         {
             "submitId": 135,
-            "username": "test_19",
+            "username": "NewbieCup2019_19",
             "alphabetId": "D",
             "subTime": "2019-11-10  16:42:26",
             "resultId": 4
@@ -906,7 +969,7 @@
         },
         {
             "submitId": 141,
-            "username": "test_19",
+            "username": "NewbieCup2019_19",
             "alphabetId": "D",
             "subTime": "2019-11-10  16:41:45",
             "resultId": 4
@@ -976,14 +1039,14 @@
         },
         {
             "submitId": 151,
-            "username": "test_2",
+            "username": "NewbieCup2019_2",
             "alphabetId": "K",
             "subTime": "2019-11-10  16:39:50",
             "resultId": 4
         },
         {
             "submitId": 152,
-            "username": "test_8",
+            "username": "NewbieCup2019_8",
             "alphabetId": "C",
             "subTime": "2019-11-10  16:39:49",
             "resultId": 4
@@ -997,7 +1060,7 @@
         },
         {
             "submitId": 154,
-            "username": "test_8",
+            "username": "NewbieCup2019_8",
             "alphabetId": "C",
             "subTime": "2019-11-10  16:39:11",
             "resultId": 4
@@ -1011,7 +1074,7 @@
         },
         {
             "submitId": 156,
-            "username": "test_19",
+            "username": "NewbieCup2019_19",
             "alphabetId": "D",
             "subTime": "2019-11-10  16:38:47",
             "resultId": 4
@@ -1039,7 +1102,7 @@
         },
         {
             "submitId": 160,
-            "username": "test_27",
+            "username": "NewbieCup2019_27",
             "alphabetId": "I",
             "subTime": "2019-11-10  16:38:18",
             "resultId": 4
@@ -1109,7 +1172,7 @@
         },
         {
             "submitId": 170,
-            "username": "test_8",
+            "username": "NewbieCup2019_8",
             "alphabetId": "C",
             "subTime": "2019-11-10  16:37:07",
             "resultId": 4
@@ -1130,7 +1193,7 @@
         },
         {
             "submitId": 173,
-            "username": "test_22",
+            "username": "NewbieCup2019_22",
             "alphabetId": "I",
             "subTime": "2019-11-10  16:36:52",
             "resultId": 4
@@ -1144,7 +1207,7 @@
         },
         {
             "submitId": 175,
-            "username": "test_8",
+            "username": "NewbieCup2019_8",
             "alphabetId": "C",
             "subTime": "2019-11-10  16:36:02",
             "resultId": 4
@@ -1165,7 +1228,7 @@
         },
         {
             "submitId": 178,
-            "username": "test_18",
+            "username": "NewbieCup2019_18",
             "alphabetId": "C",
             "subTime": "2019-11-10  16:34:58",
             "resultId": 0
@@ -1193,7 +1256,7 @@
         },
         {
             "submitId": 182,
-            "username": "test_2",
+            "username": "NewbieCup2019_2",
             "alphabetId": "G",
             "subTime": "2019-11-10  16:33:48",
             "resultId": 0
@@ -1221,7 +1284,7 @@
         },
         {
             "submitId": 186,
-            "username": "test_8",
+            "username": "NewbieCup2019_8",
             "alphabetId": "M",
             "subTime": "2019-11-10  16:33:42",
             "resultId": 4
@@ -1242,7 +1305,7 @@
         },
         {
             "submitId": 189,
-            "username": "test_2",
+            "username": "NewbieCup2019_2",
             "alphabetId": "G",
             "subTime": "2019-11-10  16:33:04",
             "resultId": 4
@@ -1256,14 +1319,14 @@
         },
         {
             "submitId": 191,
-            "username": "test_18",
+            "username": "NewbieCup2019_18",
             "alphabetId": "C",
             "subTime": "2019-11-10  16:32:53",
             "resultId": 4
         },
         {
             "submitId": 192,
-            "username": "test_30",
+            "username": "NewbieCup2019_30",
             "alphabetId": "D",
             "subTime": "2019-11-10  16:32:45",
             "resultId": 0
@@ -1312,7 +1375,7 @@
         },
         {
             "submitId": 199,
-            "username": "test_27",
+            "username": "NewbieCup2019_27",
             "alphabetId": "I",
             "subTime": "2019-11-10  16:32:11",
             "resultId": 4
@@ -1368,7 +1431,7 @@
         },
         {
             "submitId": 207,
-            "username": "test_8",
+            "username": "NewbieCup2019_8",
             "alphabetId": "C",
             "subTime": "2019-11-10  16:31:10",
             "resultId": 4
@@ -1396,7 +1459,7 @@
         },
         {
             "submitId": 211,
-            "username": "test_13",
+            "username": "NewbieCup2019_13",
             "alphabetId": "B",
             "subTime": "2019-11-10  16:30:20",
             "resultId": 4
@@ -1410,9 +1473,16 @@
         },
         {
             "submitId": 213,
-            "username": "test_13",
+            "username": "NewbieCup2019_13",
             "alphabetId": "B",
             "subTime": "2019-11-10  16:30:15",
+            "resultId": 4
+        },
+        {
+            "submitId": 214,
+            "username": "NewbieCup2019_31",
+            "alphabetId": "C",
+            "subTime": "2019-11-10  16:29:50",
             "resultId": 4
         },
         {
@@ -1473,14 +1543,14 @@
         },
         {
             "submitId": 223,
-            "username": "test_13",
+            "username": "NewbieCup2019_13",
             "alphabetId": "B",
             "subTime": "2019-11-10  16:29:09",
             "resultId": 4
         },
         {
             "submitId": 224,
-            "username": "test_13",
+            "username": "NewbieCup2019_13",
             "alphabetId": "B",
             "subTime": "2019-11-10  16:28:56",
             "resultId": 4
@@ -1515,7 +1585,7 @@
         },
         {
             "submitId": 229,
-            "username": "test_7",
+            "username": "NewbieCup2019_7",
             "alphabetId": "K",
             "subTime": "2019-11-10  16:28:30",
             "resultId": 4
@@ -1529,7 +1599,7 @@
         },
         {
             "submitId": 231,
-            "username": "test_27",
+            "username": "NewbieCup2019_27",
             "alphabetId": "I",
             "subTime": "2019-11-10  16:28:24",
             "resultId": 4
@@ -1543,7 +1613,7 @@
         },
         {
             "submitId": 233,
-            "username": "test_14",
+            "username": "NewbieCup2019_14",
             "alphabetId": "D",
             "subTime": "2019-11-10  16:27:45",
             "resultId": 4
@@ -1564,7 +1634,7 @@
         },
         {
             "submitId": 236,
-            "username": "test_5",
+            "username": "NewbieCup2019_5",
             "alphabetId": "L",
             "subTime": "2019-11-10  16:27:10",
             "resultId": 4
@@ -1606,7 +1676,7 @@
         },
         {
             "submitId": 242,
-            "username": "test_25",
+            "username": "NewbieCup2019_25",
             "alphabetId": "B",
             "subTime": "2019-11-10  16:26:36",
             "resultId": 4
@@ -1641,7 +1711,7 @@
         },
         {
             "submitId": 247,
-            "username": "test_27",
+            "username": "NewbieCup2019_27",
             "alphabetId": "I",
             "subTime": "2019-11-10  16:24:50",
             "resultId": 4
@@ -1676,7 +1746,7 @@
         },
         {
             "submitId": 252,
-            "username": "test_27",
+            "username": "NewbieCup2019_27",
             "alphabetId": "I",
             "subTime": "2019-11-10  16:23:42",
             "resultId": 4
@@ -1732,7 +1802,7 @@
         },
         {
             "submitId": 260,
-            "username": "test_27",
+            "username": "NewbieCup2019_27",
             "alphabetId": "I",
             "subTime": "2019-11-10  16:21:31",
             "resultId": 4
@@ -1753,7 +1823,7 @@
         },
         {
             "submitId": 263,
-            "username": "test_19",
+            "username": "NewbieCup2019_19",
             "alphabetId": "D",
             "subTime": "2019-11-10  16:20:45",
             "resultId": 4
@@ -1767,7 +1837,7 @@
         },
         {
             "submitId": 265,
-            "username": "test_25",
+            "username": "NewbieCup2019_25",
             "alphabetId": "B",
             "subTime": "2019-11-10  16:20:01",
             "resultId": 4
@@ -1816,7 +1886,7 @@
         },
         {
             "submitId": 272,
-            "username": "test_18",
+            "username": "NewbieCup2019_18",
             "alphabetId": "C",
             "subTime": "2019-11-10  16:19:02",
             "resultId": 4
@@ -1858,21 +1928,21 @@
         },
         {
             "submitId": 278,
-            "username": "test_18",
+            "username": "NewbieCup2019_18",
             "alphabetId": "C",
             "subTime": "2019-11-10  16:17:31",
             "resultId": 4
         },
         {
             "submitId": 279,
-            "username": "test_10",
+            "username": "NewbieCup2019_10",
             "alphabetId": "B",
             "subTime": "2019-11-10  16:17:18",
             "resultId": 0
         },
         {
             "submitId": 280,
-            "username": "test_16",
+            "username": "NewbieCup2019_16",
             "alphabetId": "L",
             "subTime": "2019-11-10  16:16:51",
             "resultId": 0
@@ -1907,7 +1977,7 @@
         },
         {
             "submitId": 285,
-            "username": "test_8",
+            "username": "NewbieCup2019_8",
             "alphabetId": "C",
             "subTime": "2019-11-10  16:16:09",
             "resultId": 4
@@ -1970,7 +2040,7 @@
         },
         {
             "submitId": 294,
-            "username": "test_26",
+            "username": "NewbieCup2019_26",
             "alphabetId": "C",
             "subTime": "2019-11-10  16:13:56",
             "resultId": 4
@@ -1998,7 +2068,7 @@
         },
         {
             "submitId": 298,
-            "username": "test_16",
+            "username": "NewbieCup2019_16",
             "alphabetId": "D",
             "subTime": "2019-11-10  16:13:11",
             "resultId": 0
@@ -2009,6 +2079,13 @@
             "alphabetId": "M",
             "subTime": "2019-11-10  16:12:56",
             "resultId": 0
+        },
+        {
+            "submitId": 300,
+            "username": "NewbieCup2019_31",
+            "alphabetId": "C",
+            "subTime": "2019-11-10  16:12:44",
+            "resultId": 4
         },
         {
             "submitId": 301,
@@ -2026,7 +2103,7 @@
         },
         {
             "submitId": 303,
-            "username": "test_5",
+            "username": "NewbieCup2019_5",
             "alphabetId": "L",
             "subTime": "2019-11-10  16:12:34",
             "resultId": 4
@@ -2047,7 +2124,7 @@
         },
         {
             "submitId": 306,
-            "username": "test_25",
+            "username": "NewbieCup2019_25",
             "alphabetId": "B",
             "subTime": "2019-11-10  16:11:56",
             "resultId": 4
@@ -2110,7 +2187,7 @@
         },
         {
             "submitId": 315,
-            "username": "test_7",
+            "username": "NewbieCup2019_7",
             "alphabetId": "K",
             "subTime": "2019-11-10  16:10:12",
             "resultId": 4
@@ -2123,6 +2200,13 @@
             "resultId": 4
         },
         {
+            "submitId": 317,
+            "username": "NewbieCup2019_31",
+            "alphabetId": "C",
+            "subTime": "2019-11-10  16:09:49",
+            "resultId": 4
+        },
+        {
             "submitId": 318,
             "username": "NewbieCup2019_111",
             "alphabetId": "M",
@@ -2131,14 +2215,14 @@
         },
         {
             "submitId": 319,
-            "username": "test_26",
+            "username": "NewbieCup2019_26",
             "alphabetId": "C",
             "subTime": "2019-11-10  16:09:41",
             "resultId": 4
         },
         {
             "submitId": 320,
-            "username": "test_8",
+            "username": "NewbieCup2019_8",
             "alphabetId": "M",
             "subTime": "2019-11-10  16:09:41",
             "resultId": 4
@@ -2180,7 +2264,7 @@
         },
         {
             "submitId": 326,
-            "username": "test_16",
+            "username": "NewbieCup2019_16",
             "alphabetId": "D",
             "subTime": "2019-11-10  16:08:47",
             "resultId": 4
@@ -2250,7 +2334,7 @@
         },
         {
             "submitId": 336,
-            "username": "test_16",
+            "username": "NewbieCup2019_16",
             "alphabetId": "D",
             "subTime": "2019-11-10  16:06:35",
             "resultId": 4
@@ -2260,6 +2344,13 @@
             "username": "NewbieCup2019_64*",
             "alphabetId": "L",
             "subTime": "2019-11-10  16:06:28",
+            "resultId": 4
+        },
+        {
+            "submitId": 338,
+            "username": "NewbieCup2019_31",
+            "alphabetId": "C",
+            "subTime": "2019-11-10  16:06:17",
             "resultId": 4
         },
         {
@@ -2278,35 +2369,35 @@
         },
         {
             "submitId": 341,
-            "username": "test_17",
+            "username": "NewbieCup2019_17",
             "alphabetId": "L",
             "subTime": "2019-11-10  16:05:58",
             "resultId": 4
         },
         {
             "submitId": 342,
-            "username": "test_7",
+            "username": "NewbieCup2019_7",
             "alphabetId": "K",
             "subTime": "2019-11-10  16:05:51",
             "resultId": 4
         },
         {
             "submitId": 343,
-            "username": "test_18",
+            "username": "NewbieCup2019_18",
             "alphabetId": "C",
             "subTime": "2019-11-10  16:05:47",
             "resultId": 4
         },
         {
             "submitId": 344,
-            "username": "test_18",
+            "username": "NewbieCup2019_18",
             "alphabetId": "M",
             "subTime": "2019-11-10  16:05:33",
             "resultId": 0
         },
         {
             "submitId": 345,
-            "username": "test_25",
+            "username": "NewbieCup2019_25",
             "alphabetId": "H",
             "subTime": "2019-11-10  16:05:09",
             "resultId": 4
@@ -2320,28 +2411,42 @@
         },
         {
             "submitId": 347,
-            "username": "test_5",
+            "username": "NewbieCup2019_5",
             "alphabetId": "L",
             "subTime": "2019-11-10  16:04:55",
             "resultId": 4
         },
         {
+            "submitId": 348,
+            "username": "NewbieCup2019_31",
+            "alphabetId": "C",
+            "subTime": "2019-11-10  16:04:53",
+            "resultId": 4
+        },
+        {
             "submitId": 349,
-            "username": "test_17",
+            "username": "NewbieCup2019_17",
             "alphabetId": "L",
             "subTime": "2019-11-10  16:04:24",
             "resultId": 4
         },
         {
+            "submitId": 350,
+            "username": "NewbieCup2019_31",
+            "alphabetId": "C",
+            "subTime": "2019-11-10  16:04:19",
+            "resultId": 4
+        },
+        {
             "submitId": 351,
-            "username": "test_27",
+            "username": "NewbieCup2019_27",
             "alphabetId": "B",
             "subTime": "2019-11-10  16:03:45",
             "resultId": 4
         },
         {
             "submitId": 352,
-            "username": "test_30",
+            "username": "NewbieCup2019_30",
             "alphabetId": "H",
             "subTime": "2019-11-10  16:03:40",
             "resultId": 4
@@ -2355,7 +2460,7 @@
         },
         {
             "submitId": 354,
-            "username": "test_17",
+            "username": "NewbieCup2019_17",
             "alphabetId": "L",
             "subTime": "2019-11-10  16:03:24",
             "resultId": 4
@@ -2397,14 +2502,14 @@
         },
         {
             "submitId": 360,
-            "username": "test_19",
+            "username": "NewbieCup2019_19",
             "alphabetId": "D",
             "subTime": "2019-11-10  16:01:49",
             "resultId": 4
         },
         {
             "submitId": 361,
-            "username": "test_12",
+            "username": "NewbieCup2019_12",
             "alphabetId": "B",
             "subTime": "2019-11-10  16:01:03",
             "resultId": 4
@@ -2432,7 +2537,7 @@
         },
         {
             "submitId": 365,
-            "username": "test_12",
+            "username": "NewbieCup2019_12",
             "alphabetId": "B",
             "subTime": "2019-11-10  15:59:43",
             "resultId": 4
@@ -2453,7 +2558,7 @@
         },
         {
             "submitId": 368,
-            "username": "test_7",
+            "username": "NewbieCup2019_7",
             "alphabetId": "K",
             "subTime": "2019-11-10  15:59:30",
             "resultId": 4
@@ -2502,7 +2607,7 @@
         },
         {
             "submitId": 375,
-            "username": "test_27",
+            "username": "NewbieCup2019_27",
             "alphabetId": "B",
             "subTime": "2019-11-10  15:57:57",
             "resultId": 4
@@ -2516,7 +2621,7 @@
         },
         {
             "submitId": 377,
-            "username": "test_17",
+            "username": "NewbieCup2019_17",
             "alphabetId": "L",
             "subTime": "2019-11-10  15:57:52",
             "resultId": 4
@@ -2537,7 +2642,7 @@
         },
         {
             "submitId": 380,
-            "username": "test_17",
+            "username": "NewbieCup2019_17",
             "alphabetId": "L",
             "subTime": "2019-11-10  15:57:38",
             "resultId": 4
@@ -2572,7 +2677,7 @@
         },
         {
             "submitId": 385,
-            "username": "test_2",
+            "username": "NewbieCup2019_2",
             "alphabetId": "D",
             "subTime": "2019-11-10  15:56:28",
             "resultId": 0
@@ -2600,7 +2705,7 @@
         },
         {
             "submitId": 389,
-            "username": "test_17",
+            "username": "NewbieCup2019_17",
             "alphabetId": "L",
             "subTime": "2019-11-10  15:56:02",
             "resultId": 4
@@ -2621,21 +2726,21 @@
         },
         {
             "submitId": 392,
-            "username": "test_30",
+            "username": "NewbieCup2019_30",
             "alphabetId": "G",
             "subTime": "2019-11-10  15:55:39",
             "resultId": 0
         },
         {
             "submitId": 393,
-            "username": "test_8",
+            "username": "NewbieCup2019_8",
             "alphabetId": "C",
             "subTime": "2019-11-10  15:55:38",
             "resultId": 4
         },
         {
             "submitId": 394,
-            "username": "test_5",
+            "username": "NewbieCup2019_5",
             "alphabetId": "L",
             "subTime": "2019-11-10  15:55:37",
             "resultId": 4
@@ -2677,7 +2782,7 @@
         },
         {
             "submitId": 400,
-            "username": "test_17",
+            "username": "NewbieCup2019_17",
             "alphabetId": "L",
             "subTime": "2019-11-10  15:54:51",
             "resultId": 4
@@ -2705,7 +2810,7 @@
         },
         {
             "submitId": 404,
-            "username": "test_5",
+            "username": "NewbieCup2019_5",
             "alphabetId": "L",
             "subTime": "2019-11-10  15:54:21",
             "resultId": 4
@@ -2726,7 +2831,7 @@
         },
         {
             "submitId": 407,
-            "username": "test_20",
+            "username": "NewbieCup2019_20",
             "alphabetId": "D",
             "subTime": "2019-11-10  15:53:23",
             "resultId": 4
@@ -2838,7 +2943,7 @@
         },
         {
             "submitId": 423,
-            "username": "test_17",
+            "username": "NewbieCup2019_17",
             "alphabetId": "L",
             "subTime": "2019-11-10  15:50:36",
             "resultId": 4
@@ -2880,14 +2985,14 @@
         },
         {
             "submitId": 429,
-            "username": "test_8",
+            "username": "NewbieCup2019_8",
             "alphabetId": "M",
             "subTime": "2019-11-10  15:49:47",
             "resultId": 4
         },
         {
             "submitId": 430,
-            "username": "test_20",
+            "username": "NewbieCup2019_20",
             "alphabetId": "A",
             "subTime": "2019-11-10  15:49:32",
             "resultId": 4
@@ -2908,7 +3013,7 @@
         },
         {
             "submitId": 433,
-            "username": "test_17",
+            "username": "NewbieCup2019_17",
             "alphabetId": "L",
             "subTime": "2019-11-10  15:49:15",
             "resultId": 4
@@ -2935,6 +3040,13 @@
             "resultId": 4
         },
         {
+            "submitId": 437,
+            "username": "NewbieCup2019_68",
+            "alphabetId": "E",
+            "subTime": "2019-11-10  15:47:35",
+            "resultId": 4
+        },
+        {
             "submitId": 438,
             "username": "NewbieCup2019_60",
             "alphabetId": "B",
@@ -2957,14 +3069,14 @@
         },
         {
             "submitId": 441,
-            "username": "test_8",
+            "username": "NewbieCup2019_8",
             "alphabetId": "C",
             "subTime": "2019-11-10  15:47:14",
             "resultId": 4
         },
         {
             "submitId": 442,
-            "username": "test_17",
+            "username": "NewbieCup2019_17",
             "alphabetId": "L",
             "subTime": "2019-11-10  15:47:02",
             "resultId": 4
@@ -2978,7 +3090,7 @@
         },
         {
             "submitId": 444,
-            "username": "test_17",
+            "username": "NewbieCup2019_17",
             "alphabetId": "L",
             "subTime": "2019-11-10  15:46:39",
             "resultId": 4
@@ -2999,9 +3111,16 @@
         },
         {
             "submitId": 447,
-            "username": "test_4",
+            "username": "NewbieCup2019_4",
             "alphabetId": "H",
             "subTime": "2019-11-10  15:46:18",
+            "resultId": 4
+        },
+        {
+            "submitId": 448,
+            "username": "NewbieCup2019_68",
+            "alphabetId": "E",
+            "subTime": "2019-11-10  15:46:10",
             "resultId": 4
         },
         {
@@ -3010,6 +3129,13 @@
             "alphabetId": "E",
             "subTime": "2019-11-10  15:46:02",
             "resultId": 0
+        },
+        {
+            "submitId": 450,
+            "username": "NewbieCup2019_68",
+            "alphabetId": "E",
+            "subTime": "2019-11-10  15:45:55",
+            "resultId": 4
         },
         {
             "submitId": 451,
@@ -3041,7 +3167,7 @@
         },
         {
             "submitId": 455,
-            "username": "test_17",
+            "username": "NewbieCup2019_17",
             "alphabetId": "L",
             "subTime": "2019-11-10  15:44:44",
             "resultId": 4
@@ -3059,6 +3185,13 @@
             "alphabetId": "G",
             "subTime": "2019-11-10  15:44:31",
             "resultId": 4
+        },
+        {
+            "submitId": 458,
+            "username": "NewbieCup2019_1",
+            "alphabetId": "D",
+            "subTime": "2019-11-10  15:44:22",
+            "resultId": 0
         },
         {
             "submitId": 459,
@@ -3090,14 +3223,14 @@
         },
         {
             "submitId": 463,
-            "username": "test_27",
+            "username": "NewbieCup2019_27",
             "alphabetId": "B",
             "subTime": "2019-11-10  15:43:42",
             "resultId": 4
         },
         {
             "submitId": 464,
-            "username": "test_13",
+            "username": "NewbieCup2019_13",
             "alphabetId": "B",
             "subTime": "2019-11-10  15:43:04",
             "resultId": 4
@@ -3118,7 +3251,7 @@
         },
         {
             "submitId": 467,
-            "username": "test_20",
+            "username": "NewbieCup2019_20",
             "alphabetId": "M",
             "subTime": "2019-11-10  15:42:33",
             "resultId": 4
@@ -3132,7 +3265,7 @@
         },
         {
             "submitId": 469,
-            "username": "test_29",
+            "username": "NewbieCup2019_29",
             "alphabetId": "B",
             "subTime": "2019-11-10  15:42:29",
             "resultId": 0
@@ -3146,7 +3279,7 @@
         },
         {
             "submitId": 471,
-            "username": "test_8",
+            "username": "NewbieCup2019_8",
             "alphabetId": "C",
             "subTime": "2019-11-10  15:42:19",
             "resultId": 4
@@ -3160,14 +3293,14 @@
         },
         {
             "submitId": 473,
-            "username": "test_17",
+            "username": "NewbieCup2019_17",
             "alphabetId": "L",
             "subTime": "2019-11-10  15:41:57",
             "resultId": 4
         },
         {
             "submitId": 474,
-            "username": "test_2",
+            "username": "NewbieCup2019_2",
             "alphabetId": "D",
             "subTime": "2019-11-10  15:41:29",
             "resultId": 4
@@ -3181,14 +3314,14 @@
         },
         {
             "submitId": 476,
-            "username": "test_20",
+            "username": "NewbieCup2019_20",
             "alphabetId": "M",
             "subTime": "2019-11-10  15:41:03",
             "resultId": 4
         },
         {
             "submitId": 477,
-            "username": "test_2",
+            "username": "NewbieCup2019_2",
             "alphabetId": "D",
             "subTime": "2019-11-10  15:40:58",
             "resultId": 4
@@ -3216,7 +3349,7 @@
         },
         {
             "submitId": 481,
-            "username": "test_30",
+            "username": "NewbieCup2019_30",
             "alphabetId": "H",
             "subTime": "2019-11-10  15:40:41",
             "resultId": 4
@@ -3237,7 +3370,7 @@
         },
         {
             "submitId": 484,
-            "username": "test_2",
+            "username": "NewbieCup2019_2",
             "alphabetId": "D",
             "subTime": "2019-11-10  15:40:29",
             "resultId": 4
@@ -3258,7 +3391,7 @@
         },
         {
             "submitId": 487,
-            "username": "test_20",
+            "username": "NewbieCup2019_20",
             "alphabetId": "A",
             "subTime": "2019-11-10  15:40:06",
             "resultId": 4
@@ -3369,6 +3502,13 @@
             "resultId": 4
         },
         {
+            "submitId": 503,
+            "username": "NewbieCup2019_1",
+            "alphabetId": "D",
+            "subTime": "2019-11-10  15:37:59",
+            "resultId": 4
+        },
+        {
             "submitId": 504,
             "username": "NewbieCup2019_88",
             "alphabetId": "B",
@@ -3419,7 +3559,7 @@
         },
         {
             "submitId": 511,
-            "username": "test_8",
+            "username": "NewbieCup2019_8",
             "alphabetId": "C",
             "subTime": "2019-11-10  15:36:39",
             "resultId": 4
@@ -3475,7 +3615,7 @@
         },
         {
             "submitId": 519,
-            "username": "test_24",
+            "username": "NewbieCup2019_24",
             "alphabetId": "D",
             "subTime": "2019-11-10  15:34:33",
             "resultId": 4
@@ -3489,7 +3629,7 @@
         },
         {
             "submitId": 521,
-            "username": "test_24",
+            "username": "NewbieCup2019_24",
             "alphabetId": "D",
             "subTime": "2019-11-10  15:34:03",
             "resultId": 4
@@ -3503,7 +3643,7 @@
         },
         {
             "submitId": 523,
-            "username": "test_27",
+            "username": "NewbieCup2019_27",
             "alphabetId": "B",
             "subTime": "2019-11-10  15:33:42",
             "resultId": 4
@@ -3517,14 +3657,14 @@
         },
         {
             "submitId": 525,
-            "username": "test_19",
+            "username": "NewbieCup2019_19",
             "alphabetId": "I",
             "subTime": "2019-11-10  15:33:27",
             "resultId": 4
         },
         {
             "submitId": 526,
-            "username": "test_27",
+            "username": "NewbieCup2019_27",
             "alphabetId": "B",
             "subTime": "2019-11-10  15:33:27",
             "resultId": 4
@@ -3538,7 +3678,7 @@
         },
         {
             "submitId": 528,
-            "username": "test_27",
+            "username": "NewbieCup2019_27",
             "alphabetId": "B",
             "subTime": "2019-11-10  15:33:01",
             "resultId": 4
@@ -3594,7 +3734,7 @@
         },
         {
             "submitId": 536,
-            "username": "test_8",
+            "username": "NewbieCup2019_8",
             "alphabetId": "C",
             "subTime": "2019-11-10  15:32:02",
             "resultId": 4
@@ -3615,7 +3755,7 @@
         },
         {
             "submitId": 539,
-            "username": "test_12",
+            "username": "NewbieCup2019_12",
             "alphabetId": "B",
             "subTime": "2019-11-10  15:30:58",
             "resultId": 4
@@ -3629,7 +3769,7 @@
         },
         {
             "submitId": 541,
-            "username": "test_25",
+            "username": "NewbieCup2019_25",
             "alphabetId": "H",
             "subTime": "2019-11-10  15:30:36",
             "resultId": 4
@@ -3692,7 +3832,7 @@
         },
         {
             "submitId": 550,
-            "username": "test_20",
+            "username": "NewbieCup2019_20",
             "alphabetId": "A",
             "subTime": "2019-11-10  15:28:51",
             "resultId": 4
@@ -3727,7 +3867,7 @@
         },
         {
             "submitId": 555,
-            "username": "test_14",
+            "username": "NewbieCup2019_14",
             "alphabetId": "L",
             "subTime": "2019-11-10  15:27:31",
             "resultId": 0
@@ -3776,7 +3916,7 @@
         },
         {
             "submitId": 562,
-            "username": "test_19",
+            "username": "NewbieCup2019_19",
             "alphabetId": "I",
             "subTime": "2019-11-10  15:26:13",
             "resultId": 4
@@ -3804,14 +3944,14 @@
         },
         {
             "submitId": 566,
-            "username": "test_12",
+            "username": "NewbieCup2019_12",
             "alphabetId": "B",
             "subTime": "2019-11-10  15:24:48",
             "resultId": 4
         },
         {
             "submitId": 567,
-            "username": "test_20",
+            "username": "NewbieCup2019_20",
             "alphabetId": "M",
             "subTime": "2019-11-10  15:24:36",
             "resultId": 4
@@ -3846,7 +3986,7 @@
         },
         {
             "submitId": 572,
-            "username": "test_5",
+            "username": "NewbieCup2019_5",
             "alphabetId": "G",
             "subTime": "2019-11-10  15:24:03",
             "resultId": 0
@@ -3881,7 +4021,7 @@
         },
         {
             "submitId": 577,
-            "username": "test_20",
+            "username": "NewbieCup2019_20",
             "alphabetId": "M",
             "subTime": "2019-11-10  15:23:45",
             "resultId": 4
@@ -3930,7 +4070,7 @@
         },
         {
             "submitId": 584,
-            "username": "test_12",
+            "username": "NewbieCup2019_12",
             "alphabetId": "B",
             "subTime": "2019-11-10  15:23:00",
             "resultId": 4
@@ -3965,14 +4105,14 @@
         },
         {
             "submitId": 589,
-            "username": "test_25",
+            "username": "NewbieCup2019_25",
             "alphabetId": "H",
             "subTime": "2019-11-10  15:22:13",
             "resultId": 4
         },
         {
             "submitId": 590,
-            "username": "test_10",
+            "username": "NewbieCup2019_10",
             "alphabetId": "B",
             "subTime": "2019-11-10  15:22:04",
             "resultId": 4
@@ -4035,7 +4175,7 @@
         },
         {
             "submitId": 599,
-            "username": "test_12",
+            "username": "NewbieCup2019_12",
             "alphabetId": "B",
             "subTime": "2019-11-10  15:20:54",
             "resultId": 4
@@ -4049,7 +4189,7 @@
         },
         {
             "submitId": 601,
-            "username": "test_4",
+            "username": "NewbieCup2019_4",
             "alphabetId": "H",
             "subTime": "2019-11-10  15:20:13",
             "resultId": 4
@@ -4105,7 +4245,7 @@
         },
         {
             "submitId": 609,
-            "username": "test_29",
+            "username": "NewbieCup2019_29",
             "alphabetId": "L",
             "subTime": "2019-11-10  15:18:57",
             "resultId": 4
@@ -4126,7 +4266,7 @@
         },
         {
             "submitId": 612,
-            "username": "test_13",
+            "username": "NewbieCup2019_13",
             "alphabetId": "C",
             "subTime": "2019-11-10  15:18:33",
             "resultId": 0
@@ -4147,7 +4287,7 @@
         },
         {
             "submitId": 615,
-            "username": "test_16",
+            "username": "NewbieCup2019_16",
             "alphabetId": "K",
             "subTime": "2019-11-10  15:18:04",
             "resultId": 4
@@ -4175,14 +4315,14 @@
         },
         {
             "submitId": 619,
-            "username": "test_5",
+            "username": "NewbieCup2019_5",
             "alphabetId": "G",
             "subTime": "2019-11-10  15:17:13",
             "resultId": 4
         },
         {
             "submitId": 620,
-            "username": "test_12",
+            "username": "NewbieCup2019_12",
             "alphabetId": "B",
             "subTime": "2019-11-10  15:17:09",
             "resultId": 4
@@ -4322,7 +4462,7 @@
         },
         {
             "submitId": 640,
-            "username": "test_27",
+            "username": "NewbieCup2019_27",
             "alphabetId": "C",
             "subTime": "2019-11-10  15:14:58",
             "resultId": 0
@@ -4336,7 +4476,7 @@
         },
         {
             "submitId": 642,
-            "username": "test_16",
+            "username": "NewbieCup2019_16",
             "alphabetId": "K",
             "subTime": "2019-11-10  15:14:45",
             "resultId": 4
@@ -4371,7 +4511,7 @@
         },
         {
             "submitId": 647,
-            "username": "test_8",
+            "username": "NewbieCup2019_8",
             "alphabetId": "M",
             "subTime": "2019-11-10  15:14:18",
             "resultId": 4
@@ -4406,7 +4546,7 @@
         },
         {
             "submitId": 652,
-            "username": "test_5",
+            "username": "NewbieCup2019_5",
             "alphabetId": "E",
             "subTime": "2019-11-10  15:13:49",
             "resultId": 0
@@ -4434,7 +4574,7 @@
         },
         {
             "submitId": 656,
-            "username": "test_9",
+            "username": "NewbieCup2019_9",
             "alphabetId": "E",
             "subTime": "2019-11-10  15:13:22",
             "resultId": 4
@@ -4448,7 +4588,7 @@
         },
         {
             "submitId": 658,
-            "username": "test_13",
+            "username": "NewbieCup2019_13",
             "alphabetId": "C",
             "subTime": "2019-11-10  15:13:01",
             "resultId": 4
@@ -4511,7 +4651,7 @@
         },
         {
             "submitId": 667,
-            "username": "test_9",
+            "username": "NewbieCup2019_9",
             "alphabetId": "E",
             "subTime": "2019-11-10  15:11:36",
             "resultId": 4
@@ -4539,7 +4679,7 @@
         },
         {
             "submitId": 671,
-            "username": "test_12",
+            "username": "NewbieCup2019_12",
             "alphabetId": "B",
             "subTime": "2019-11-10  15:11:22",
             "resultId": 4
@@ -4623,7 +4763,7 @@
         },
         {
             "submitId": 683,
-            "username": "test_20",
+            "username": "NewbieCup2019_20",
             "alphabetId": "A",
             "subTime": "2019-11-10  15:10:07",
             "resultId": 4
@@ -4651,7 +4791,7 @@
         },
         {
             "submitId": 687,
-            "username": "test_9",
+            "username": "NewbieCup2019_9",
             "alphabetId": "A",
             "subTime": "2019-11-10  15:09:58",
             "resultId": 4
@@ -4707,7 +4847,7 @@
         },
         {
             "submitId": 695,
-            "username": "test_9",
+            "username": "NewbieCup2019_9",
             "alphabetId": "H",
             "subTime": "2019-11-10  15:08:19",
             "resultId": 4
@@ -4735,7 +4875,7 @@
         },
         {
             "submitId": 699,
-            "username": "test_12",
+            "username": "NewbieCup2019_12",
             "alphabetId": "B",
             "subTime": "2019-11-10  15:07:35",
             "resultId": 4
@@ -4798,7 +4938,7 @@
         },
         {
             "submitId": 708,
-            "username": "test_13",
+            "username": "NewbieCup2019_13",
             "alphabetId": "C",
             "subTime": "2019-11-10  15:06:08",
             "resultId": 4
@@ -4826,7 +4966,7 @@
         },
         {
             "submitId": 712,
-            "username": "test_11",
+            "username": "NewbieCup2019_11",
             "alphabetId": "H",
             "subTime": "2019-11-10  15:05:35",
             "resultId": 4
@@ -4840,7 +4980,7 @@
         },
         {
             "submitId": 714,
-            "username": "test_4",
+            "username": "NewbieCup2019_4",
             "alphabetId": "M",
             "subTime": "2019-11-10  15:05:25",
             "resultId": 4
@@ -4896,14 +5036,14 @@
         },
         {
             "submitId": 722,
-            "username": "test_30",
+            "username": "NewbieCup2019_30",
             "alphabetId": "G",
             "subTime": "2019-11-10  15:04:35",
             "resultId": 4
         },
         {
             "submitId": 723,
-            "username": "test_14",
+            "username": "NewbieCup2019_14",
             "alphabetId": "L",
             "subTime": "2019-11-10  15:04:18",
             "resultId": 4
@@ -4945,7 +5085,7 @@
         },
         {
             "submitId": 729,
-            "username": "test_20",
+            "username": "NewbieCup2019_20",
             "alphabetId": "A",
             "subTime": "2019-11-10  15:03:30",
             "resultId": 4
@@ -4980,7 +5120,7 @@
         },
         {
             "submitId": 734,
-            "username": "test_13",
+            "username": "NewbieCup2019_13",
             "alphabetId": "C",
             "subTime": "2019-11-10  15:03:10",
             "resultId": 4
@@ -4991,6 +5131,13 @@
             "alphabetId": "H",
             "subTime": "2019-11-10  15:03:05",
             "resultId": 4
+        },
+        {
+            "submitId": 736,
+            "username": "NewbieCup2019_31",
+            "alphabetId": "M",
+            "subTime": "2019-11-10  15:02:48",
+            "resultId": 0
         },
         {
             "submitId": 737,
@@ -5042,6 +5189,13 @@
             "resultId": 4
         },
         {
+            "submitId": 744,
+            "username": "NewbieCup2019_31",
+            "alphabetId": "A",
+            "subTime": "2019-11-10  15:01:38",
+            "resultId": 0
+        },
+        {
             "submitId": 745,
             "username": "NewbieCup2019_43",
             "alphabetId": "M",
@@ -5050,7 +5204,7 @@
         },
         {
             "submitId": 746,
-            "username": "test_13",
+            "username": "NewbieCup2019_13",
             "alphabetId": "C",
             "subTime": "2019-11-10  15:01:34",
             "resultId": 4
@@ -5092,7 +5246,7 @@
         },
         {
             "submitId": 752,
-            "username": "test_20",
+            "username": "NewbieCup2019_20",
             "alphabetId": "A",
             "subTime": "2019-11-10  15:00:23",
             "resultId": 4
@@ -5106,7 +5260,7 @@
         },
         {
             "submitId": 754,
-            "username": "test_24",
+            "username": "NewbieCup2019_24",
             "alphabetId": "D",
             "subTime": "2019-11-10  15:00:17",
             "resultId": 4
@@ -5120,21 +5274,21 @@
         },
         {
             "submitId": 756,
-            "username": "test_27",
+            "username": "NewbieCup2019_27",
             "alphabetId": "I",
             "subTime": "2019-11-10  14:59:59",
             "resultId": 4
         },
         {
             "submitId": 757,
-            "username": "test_30",
+            "username": "NewbieCup2019_30",
             "alphabetId": "B",
             "subTime": "2019-11-10  14:59:39",
             "resultId": 0
         },
         {
             "submitId": 758,
-            "username": "test_24",
+            "username": "NewbieCup2019_24",
             "alphabetId": "D",
             "subTime": "2019-11-10  14:59:38",
             "resultId": 4
@@ -5197,7 +5351,7 @@
         },
         {
             "submitId": 767,
-            "username": "test_27",
+            "username": "NewbieCup2019_27",
             "alphabetId": "I",
             "subTime": "2019-11-10  14:58:36",
             "resultId": 4
@@ -5239,7 +5393,7 @@
         },
         {
             "submitId": 773,
-            "username": "test_5",
+            "username": "NewbieCup2019_5",
             "alphabetId": "L",
             "subTime": "2019-11-10  14:57:30",
             "resultId": 4
@@ -5309,7 +5463,7 @@
         },
         {
             "submitId": 783,
-            "username": "test_2",
+            "username": "NewbieCup2019_2",
             "alphabetId": "G",
             "subTime": "2019-11-10  14:56:19",
             "resultId": 4
@@ -5323,7 +5477,7 @@
         },
         {
             "submitId": 785,
-            "username": "test_20",
+            "username": "NewbieCup2019_20",
             "alphabetId": "D",
             "subTime": "2019-11-10  14:56:10",
             "resultId": 4
@@ -5344,7 +5498,7 @@
         },
         {
             "submitId": 788,
-            "username": "test_20",
+            "username": "NewbieCup2019_20",
             "alphabetId": "A",
             "subTime": "2019-11-10  14:55:48",
             "resultId": 4
@@ -5365,14 +5519,14 @@
         },
         {
             "submitId": 791,
-            "username": "test_20",
+            "username": "NewbieCup2019_20",
             "alphabetId": "E",
             "subTime": "2019-11-10  14:55:26",
             "resultId": 4
         },
         {
             "submitId": 792,
-            "username": "test_20",
+            "username": "NewbieCup2019_20",
             "alphabetId": "E",
             "subTime": "2019-11-10  14:55:23",
             "resultId": 4
@@ -5386,7 +5540,7 @@
         },
         {
             "submitId": 794,
-            "username": "test_25",
+            "username": "NewbieCup2019_25",
             "alphabetId": "C",
             "subTime": "2019-11-10  14:54:51",
             "resultId": 0
@@ -5442,7 +5596,7 @@
         },
         {
             "submitId": 802,
-            "username": "test_22",
+            "username": "NewbieCup2019_22",
             "alphabetId": "E",
             "subTime": "2019-11-10  14:54:04",
             "resultId": 4
@@ -5505,7 +5659,7 @@
         },
         {
             "submitId": 811,
-            "username": "test_9",
+            "username": "NewbieCup2019_9",
             "alphabetId": "L",
             "subTime": "2019-11-10  14:53:21",
             "resultId": 4
@@ -5526,7 +5680,7 @@
         },
         {
             "submitId": 814,
-            "username": "test_25",
+            "username": "NewbieCup2019_25",
             "alphabetId": "C",
             "subTime": "2019-11-10  14:53:00",
             "resultId": 4
@@ -5603,7 +5757,7 @@
         },
         {
             "submitId": 825,
-            "username": "test_27",
+            "username": "NewbieCup2019_27",
             "alphabetId": "I",
             "subTime": "2019-11-10  14:51:21",
             "resultId": 4
@@ -5617,7 +5771,7 @@
         },
         {
             "submitId": 827,
-            "username": "test_2",
+            "username": "NewbieCup2019_2",
             "alphabetId": "G",
             "subTime": "2019-11-10  14:51:19",
             "resultId": 4
@@ -5625,6 +5779,13 @@
         {
             "submitId": 828,
             "username": "NewbieCup2019_103",
+            "alphabetId": "H",
+            "subTime": "2019-11-10  14:51:14",
+            "resultId": 4
+        },
+        {
+            "submitId": 829,
+            "username": "NewbieCup2019_68",
             "alphabetId": "H",
             "subTime": "2019-11-10  14:51:14",
             "resultId": 4
@@ -5708,7 +5869,7 @@
         },
         {
             "submitId": 841,
-            "username": "test_23",
+            "username": "NewbieCup2019_23",
             "alphabetId": "E",
             "subTime": "2019-11-10  14:49:19",
             "resultId": 4
@@ -5743,7 +5904,7 @@
         },
         {
             "submitId": 846,
-            "username": "test_13",
+            "username": "NewbieCup2019_13",
             "alphabetId": "C",
             "subTime": "2019-11-10  14:48:55",
             "resultId": 4
@@ -5757,7 +5918,7 @@
         },
         {
             "submitId": 848,
-            "username": "test_7",
+            "username": "NewbieCup2019_7",
             "alphabetId": "D",
             "subTime": "2019-11-10  14:48:45",
             "resultId": 0
@@ -5778,7 +5939,7 @@
         },
         {
             "submitId": 851,
-            "username": "test_18",
+            "username": "NewbieCup2019_18",
             "alphabetId": "A",
             "subTime": "2019-11-10  14:48:17",
             "resultId": 0
@@ -5834,7 +5995,7 @@
         },
         {
             "submitId": 859,
-            "username": "test_27",
+            "username": "NewbieCup2019_27",
             "alphabetId": "I",
             "subTime": "2019-11-10  14:46:05",
             "resultId": 4
@@ -5855,7 +6016,7 @@
         },
         {
             "submitId": 862,
-            "username": "test_18",
+            "username": "NewbieCup2019_18",
             "alphabetId": "A",
             "subTime": "2019-11-10  14:45:52",
             "resultId": 4
@@ -5890,7 +6051,7 @@
         },
         {
             "submitId": 867,
-            "username": "test_16",
+            "username": "NewbieCup2019_16",
             "alphabetId": "L",
             "subTime": "2019-11-10  14:44:51",
             "resultId": 4
@@ -5932,7 +6093,7 @@
         },
         {
             "submitId": 873,
-            "username": "test_11",
+            "username": "NewbieCup2019_11",
             "alphabetId": "B",
             "subTime": "2019-11-10  14:44:26",
             "resultId": 0
@@ -5995,14 +6156,14 @@
         },
         {
             "submitId": 882,
-            "username": "test_30",
+            "username": "NewbieCup2019_30",
             "alphabetId": "L",
             "subTime": "2019-11-10  14:42:45",
             "resultId": 0
         },
         {
             "submitId": 883,
-            "username": "test_26",
+            "username": "NewbieCup2019_26",
             "alphabetId": "E",
             "subTime": "2019-11-10  14:42:32",
             "resultId": 4
@@ -6044,7 +6205,7 @@
         },
         {
             "submitId": 889,
-            "username": "test_30",
+            "username": "NewbieCup2019_30",
             "alphabetId": "L",
             "subTime": "2019-11-10  14:41:37",
             "resultId": 4
@@ -6058,7 +6219,7 @@
         },
         {
             "submitId": 891,
-            "username": "test_25",
+            "username": "NewbieCup2019_25",
             "alphabetId": "H",
             "subTime": "2019-11-10  14:41:24",
             "resultId": 4
@@ -6142,7 +6303,7 @@
         },
         {
             "submitId": 903,
-            "username": "test_10",
+            "username": "NewbieCup2019_10",
             "alphabetId": "H",
             "subTime": "2019-11-10  14:40:01",
             "resultId": 4
@@ -6205,7 +6366,7 @@
         },
         {
             "submitId": 912,
-            "username": "test_9",
+            "username": "NewbieCup2019_9",
             "alphabetId": "L",
             "subTime": "2019-11-10  14:38:38",
             "resultId": 4
@@ -6232,6 +6393,13 @@
             "resultId": 4
         },
         {
+            "submitId": 916,
+            "username": "NewbieCup2019_1",
+            "alphabetId": "H",
+            "subTime": "2019-11-10  14:38:04",
+            "resultId": 4
+        },
+        {
             "submitId": 917,
             "username": "NewbieCup2019_76",
             "alphabetId": "M",
@@ -6253,6 +6421,13 @@
             "resultId": 4
         },
         {
+            "submitId": 920,
+            "username": "NewbieCup2019_68",
+            "alphabetId": "H",
+            "subTime": "2019-11-10  14:37:50",
+            "resultId": 4
+        },
+        {
             "submitId": 921,
             "username": "NewbieCup2019_51",
             "alphabetId": "H",
@@ -6268,7 +6443,7 @@
         },
         {
             "submitId": 923,
-            "username": "test_19",
+            "username": "NewbieCup2019_19",
             "alphabetId": "E",
             "subTime": "2019-11-10  14:37:42",
             "resultId": 4
@@ -6289,7 +6464,7 @@
         },
         {
             "submitId": 926,
-            "username": "test_5",
+            "username": "NewbieCup2019_5",
             "alphabetId": "E",
             "subTime": "2019-11-10  14:37:31",
             "resultId": 4
@@ -6317,7 +6492,7 @@
         },
         {
             "submitId": 930,
-            "username": "test_13",
+            "username": "NewbieCup2019_13",
             "alphabetId": "C",
             "subTime": "2019-11-10  14:37:25",
             "resultId": 4
@@ -6331,7 +6506,7 @@
         },
         {
             "submitId": 932,
-            "username": "test_24",
+            "username": "NewbieCup2019_24",
             "alphabetId": "D",
             "subTime": "2019-11-10  14:37:23",
             "resultId": 4
@@ -6359,14 +6534,14 @@
         },
         {
             "submitId": 936,
-            "username": "test_13",
+            "username": "NewbieCup2019_13",
             "alphabetId": "C",
             "subTime": "2019-11-10  14:36:54",
             "resultId": 4
         },
         {
             "submitId": 937,
-            "username": "test_30",
+            "username": "NewbieCup2019_30",
             "alphabetId": "L",
             "subTime": "2019-11-10  14:36:52",
             "resultId": 4
@@ -6436,7 +6611,7 @@
         },
         {
             "submitId": 947,
-            "username": "test_7",
+            "username": "NewbieCup2019_7",
             "alphabetId": "D",
             "subTime": "2019-11-10  14:36:06",
             "resultId": 4
@@ -6450,14 +6625,14 @@
         },
         {
             "submitId": 949,
-            "username": "test_21",
+            "username": "NewbieCup2019_21",
             "alphabetId": "L",
             "subTime": "2019-11-10  14:36:01",
             "resultId": 4
         },
         {
             "submitId": 950,
-            "username": "test_11",
+            "username": "NewbieCup2019_11",
             "alphabetId": "B",
             "subTime": "2019-11-10  14:35:58",
             "resultId": 4
@@ -6485,14 +6660,14 @@
         },
         {
             "submitId": 954,
-            "username": "test_9",
+            "username": "NewbieCup2019_9",
             "alphabetId": "L",
             "subTime": "2019-11-10  14:35:47",
             "resultId": 4
         },
         {
             "submitId": 955,
-            "username": "test_10",
+            "username": "NewbieCup2019_10",
             "alphabetId": "H",
             "subTime": "2019-11-10  14:35:43",
             "resultId": 4
@@ -6526,6 +6701,13 @@
             "resultId": 4
         },
         {
+            "submitId": 960,
+            "username": "NewbieCup2019_1",
+            "alphabetId": "H",
+            "subTime": "2019-11-10  14:35:39",
+            "resultId": 4
+        },
+        {
             "submitId": 961,
             "username": "NewbieCup2019_76",
             "alphabetId": "M",
@@ -6541,7 +6723,7 @@
         },
         {
             "submitId": 963,
-            "username": "test_24",
+            "username": "NewbieCup2019_24",
             "alphabetId": "D",
             "subTime": "2019-11-10  14:35:35",
             "resultId": 4
@@ -6569,14 +6751,14 @@
         },
         {
             "submitId": 967,
-            "username": "test_21",
+            "username": "NewbieCup2019_21",
             "alphabetId": "L",
             "subTime": "2019-11-10  14:31:26",
             "resultId": 4
         },
         {
             "submitId": 968,
-            "username": "test_9",
+            "username": "NewbieCup2019_9",
             "alphabetId": "L",
             "subTime": "2019-11-10  14:31:06",
             "resultId": 4
@@ -6590,14 +6772,14 @@
         },
         {
             "submitId": 970,
-            "username": "test_21",
+            "username": "NewbieCup2019_21",
             "alphabetId": "L",
             "subTime": "2019-11-10  14:30:07",
             "resultId": 4
         },
         {
             "submitId": 971,
-            "username": "test_5",
+            "username": "NewbieCup2019_5",
             "alphabetId": "E",
             "subTime": "2019-11-10  14:30:07",
             "resultId": 4
@@ -6611,7 +6793,7 @@
         },
         {
             "submitId": 973,
-            "username": "test_30",
+            "username": "NewbieCup2019_30",
             "alphabetId": "L",
             "subTime": "2019-11-10  14:29:33",
             "resultId": 4
@@ -6715,6 +6897,13 @@
             "resultId": 4
         },
         {
+            "submitId": 989,
+            "username": "NewbieCup2019_68",
+            "alphabetId": "H",
+            "subTime": "2019-11-10  14:27:07",
+            "resultId": 4
+        },
+        {
             "submitId": 990,
             "username": "NewbieCup2019_43",
             "alphabetId": "M",
@@ -6744,9 +6933,16 @@
         },
         {
             "submitId": 994,
-            "username": "test_26",
+            "username": "NewbieCup2019_26",
             "alphabetId": "E",
             "subTime": "2019-11-10  14:26:15",
+            "resultId": 4
+        },
+        {
+            "submitId": 995,
+            "username": "NewbieCup2019_31",
+            "alphabetId": "M",
+            "subTime": "2019-11-10  14:26:14",
             "resultId": 4
         },
         {
@@ -6765,14 +6961,14 @@
         },
         {
             "submitId": 998,
-            "username": "test_14",
+            "username": "NewbieCup2019_14",
             "alphabetId": "G",
             "subTime": "2019-11-10  14:25:46",
             "resultId": 0
         },
         {
             "submitId": 999,
-            "username": "test_12",
+            "username": "NewbieCup2019_12",
             "alphabetId": "E",
             "subTime": "2019-11-10  14:25:45",
             "resultId": 4
@@ -6800,7 +6996,7 @@
         },
         {
             "submitId": 1003,
-            "username": "test_11",
+            "username": "NewbieCup2019_11",
             "alphabetId": "B",
             "subTime": "2019-11-10  14:25:05",
             "resultId": 4
@@ -6856,7 +7052,7 @@
         },
         {
             "submitId": 1011,
-            "username": "test_12",
+            "username": "NewbieCup2019_12",
             "alphabetId": "E",
             "subTime": "2019-11-10  14:23:58",
             "resultId": 4
@@ -6898,7 +7094,7 @@
         },
         {
             "submitId": 1017,
-            "username": "test_7",
+            "username": "NewbieCup2019_7",
             "alphabetId": "L",
             "subTime": "2019-11-10  14:22:54",
             "resultId": 0
@@ -6919,7 +7115,7 @@
         },
         {
             "submitId": 1020,
-            "username": "test_7",
+            "username": "NewbieCup2019_7",
             "alphabetId": "L",
             "subTime": "2019-11-10  14:22:22",
             "resultId": 4
@@ -6968,7 +7164,7 @@
         },
         {
             "submitId": 1027,
-            "username": "test_12",
+            "username": "NewbieCup2019_12",
             "alphabetId": "E",
             "subTime": "2019-11-10  14:21:08",
             "resultId": 4
@@ -6982,7 +7178,7 @@
         },
         {
             "submitId": 1029,
-            "username": "test_11",
+            "username": "NewbieCup2019_11",
             "alphabetId": "B",
             "subTime": "2019-11-10  14:21:05",
             "resultId": 4
@@ -7059,14 +7255,14 @@
         },
         {
             "submitId": 1040,
-            "username": "test_9",
+            "username": "NewbieCup2019_9",
             "alphabetId": "G",
             "subTime": "2019-11-10  14:20:03",
             "resultId": 4
         },
         {
             "submitId": 1041,
-            "username": "test_16",
+            "username": "NewbieCup2019_16",
             "alphabetId": "B",
             "subTime": "2019-11-10  14:19:53",
             "resultId": 0
@@ -7080,21 +7276,21 @@
         },
         {
             "submitId": 1043,
-            "username": "test_26",
+            "username": "NewbieCup2019_26",
             "alphabetId": "E",
             "subTime": "2019-11-10  14:18:32",
             "resultId": 4
         },
         {
             "submitId": 1044,
-            "username": "test_9",
+            "username": "NewbieCup2019_9",
             "alphabetId": "B",
             "subTime": "2019-11-10  14:18:30",
             "resultId": 0
         },
         {
             "submitId": 1045,
-            "username": "test_9",
+            "username": "NewbieCup2019_9",
             "alphabetId": "B",
             "subTime": "2019-11-10  14:18:22",
             "resultId": 0
@@ -7157,7 +7353,7 @@
         },
         {
             "submitId": 1054,
-            "username": "test_12",
+            "username": "NewbieCup2019_12",
             "alphabetId": "E",
             "subTime": "2019-11-10  14:17:09",
             "resultId": 4
@@ -7213,14 +7409,14 @@
         },
         {
             "submitId": 1062,
-            "username": "test_9",
+            "username": "NewbieCup2019_9",
             "alphabetId": "B",
             "subTime": "2019-11-10  14:15:57",
             "resultId": 4
         },
         {
             "submitId": 1063,
-            "username": "test_9",
+            "username": "NewbieCup2019_9",
             "alphabetId": "B",
             "subTime": "2019-11-10  14:15:43",
             "resultId": 4
@@ -7332,7 +7528,7 @@
         },
         {
             "submitId": 1079,
-            "username": "test_27",
+            "username": "NewbieCup2019_27",
             "alphabetId": "E",
             "subTime": "2019-11-10  14:12:34",
             "resultId": 0
@@ -7395,7 +7591,7 @@
         },
         {
             "submitId": 1088,
-            "username": "test_14",
+            "username": "NewbieCup2019_14",
             "alphabetId": "I",
             "subTime": "2019-11-10  14:11:46",
             "resultId": 0
@@ -7416,7 +7612,7 @@
         },
         {
             "submitId": 1091,
-            "username": "test_9",
+            "username": "NewbieCup2019_9",
             "alphabetId": "B",
             "subTime": "2019-11-10  14:11:14",
             "resultId": 4
@@ -7444,7 +7640,7 @@
         },
         {
             "submitId": 1095,
-            "username": "test_9",
+            "username": "NewbieCup2019_9",
             "alphabetId": "B",
             "subTime": "2019-11-10  14:11:05",
             "resultId": 4
@@ -7458,7 +7654,7 @@
         },
         {
             "submitId": 1097,
-            "username": "test_23",
+            "username": "NewbieCup2019_23",
             "alphabetId": "E",
             "subTime": "2019-11-10  14:10:53",
             "resultId": 4
@@ -7514,7 +7710,7 @@
         },
         {
             "submitId": 1105,
-            "username": "test_25",
+            "username": "NewbieCup2019_25",
             "alphabetId": "H",
             "subTime": "2019-11-10  14:09:01",
             "resultId": 4
@@ -7528,7 +7724,7 @@
         },
         {
             "submitId": 1107,
-            "username": "test_26",
+            "username": "NewbieCup2019_26",
             "alphabetId": "E",
             "subTime": "2019-11-10  14:08:23",
             "resultId": 4
@@ -7591,7 +7787,7 @@
         },
         {
             "submitId": 1116,
-            "username": "test_5",
+            "username": "NewbieCup2019_5",
             "alphabetId": "G",
             "subTime": "2019-11-10  14:06:36",
             "resultId": 4
@@ -7633,7 +7829,7 @@
         },
         {
             "submitId": 1122,
-            "username": "test_12",
+            "username": "NewbieCup2019_12",
             "alphabetId": "C",
             "subTime": "2019-11-10  14:06:07",
             "resultId": 4
@@ -7731,7 +7927,7 @@
         },
         {
             "submitId": 1136,
-            "username": "test_25",
+            "username": "NewbieCup2019_25",
             "alphabetId": "H",
             "subTime": "2019-11-10  14:04:39",
             "resultId": 4
@@ -7793,10 +7989,24 @@
             "resultId": 0
         },
         {
+            "submitId": 1145,
+            "username": "NewbieCup2019_1",
+            "alphabetId": "L",
+            "subTime": "2019-11-10  14:03:21",
+            "resultId": 0
+        },
+        {
             "submitId": 1146,
             "username": "NewbieCup2019_43",
             "alphabetId": "M",
             "subTime": "2019-11-10  14:03:21",
+            "resultId": 4
+        },
+        {
+            "submitId": 1147,
+            "username": "NewbieCup2019_31",
+            "alphabetId": "M",
+            "subTime": "2019-11-10  14:03:18",
             "resultId": 4
         },
         {
@@ -7857,14 +8067,14 @@
         },
         {
             "submitId": 1156,
-            "username": "test_11",
+            "username": "NewbieCup2019_11",
             "alphabetId": "B",
             "subTime": "2019-11-10  14:01:32",
             "resultId": 4
         },
         {
             "submitId": 1157,
-            "username": "test_29",
+            "username": "NewbieCup2019_29",
             "alphabetId": "M",
             "subTime": "2019-11-10  14:00:57",
             "resultId": 0
@@ -7941,7 +8151,7 @@
         },
         {
             "submitId": 1168,
-            "username": "test_27",
+            "username": "NewbieCup2019_27",
             "alphabetId": "E",
             "subTime": "2019-11-10  13:59:16",
             "resultId": 4
@@ -7969,7 +8179,7 @@
         },
         {
             "submitId": 1172,
-            "username": "test_9",
+            "username": "NewbieCup2019_9",
             "alphabetId": "E",
             "subTime": "2019-11-10  13:58:34",
             "resultId": 4
@@ -7983,14 +8193,14 @@
         },
         {
             "submitId": 1174,
-            "username": "test_9",
+            "username": "NewbieCup2019_9",
             "alphabetId": "E",
             "subTime": "2019-11-10  13:58:26",
             "resultId": 4
         },
         {
             "submitId": 1175,
-            "username": "test_8",
+            "username": "NewbieCup2019_8",
             "alphabetId": "M",
             "subTime": "2019-11-10  13:58:25",
             "resultId": 4
@@ -8010,6 +8220,13 @@
             "resultId": 4
         },
         {
+            "submitId": 1178,
+            "username": "NewbieCup2019_1",
+            "alphabetId": "L",
+            "subTime": "2019-11-10  13:57:57",
+            "resultId": 4
+        },
+        {
             "submitId": 1179,
             "username": "NewbieCup2019_43",
             "alphabetId": "M",
@@ -8025,7 +8242,7 @@
         },
         {
             "submitId": 1181,
-            "username": "test_8",
+            "username": "NewbieCup2019_8",
             "alphabetId": "M",
             "subTime": "2019-11-10  13:57:35",
             "resultId": 4
@@ -8067,14 +8284,14 @@
         },
         {
             "submitId": 1187,
-            "username": "test_8",
+            "username": "NewbieCup2019_8",
             "alphabetId": "M",
             "subTime": "2019-11-10  13:57:10",
             "resultId": 4
         },
         {
             "submitId": 1188,
-            "username": "test_9",
+            "username": "NewbieCup2019_9",
             "alphabetId": "E",
             "subTime": "2019-11-10  13:57:05",
             "resultId": 4
@@ -8095,7 +8312,7 @@
         },
         {
             "submitId": 1191,
-            "username": "test_14",
+            "username": "NewbieCup2019_14",
             "alphabetId": "E",
             "subTime": "2019-11-10  13:56:39",
             "resultId": 4
@@ -8109,14 +8326,14 @@
         },
         {
             "submitId": 1193,
-            "username": "test_9",
+            "username": "NewbieCup2019_9",
             "alphabetId": "E",
             "subTime": "2019-11-10  13:56:35",
             "resultId": 4
         },
         {
             "submitId": 1194,
-            "username": "test_9",
+            "username": "NewbieCup2019_9",
             "alphabetId": "E",
             "subTime": "2019-11-10  13:56:31",
             "resultId": 4
@@ -8186,7 +8403,7 @@
         },
         {
             "submitId": 1204,
-            "username": "test_25",
+            "username": "NewbieCup2019_25",
             "alphabetId": "H",
             "subTime": "2019-11-10  13:54:24",
             "resultId": 4
@@ -8291,14 +8508,14 @@
         },
         {
             "submitId": 1219,
-            "username": "test_25",
+            "username": "NewbieCup2019_25",
             "alphabetId": "H",
             "subTime": "2019-11-10  13:52:05",
             "resultId": 4
         },
         {
             "submitId": 1220,
-            "username": "test_19",
+            "username": "NewbieCup2019_19",
             "alphabetId": "C",
             "subTime": "2019-11-10  13:51:45",
             "resultId": 0
@@ -8368,7 +8585,7 @@
         },
         {
             "submitId": 1230,
-            "username": "test_27",
+            "username": "NewbieCup2019_27",
             "alphabetId": "M",
             "subTime": "2019-11-10  13:50:46",
             "resultId": 0
@@ -8389,14 +8606,14 @@
         },
         {
             "submitId": 1233,
-            "username": "test_9",
+            "username": "NewbieCup2019_9",
             "alphabetId": "E",
             "subTime": "2019-11-10  13:50:39",
             "resultId": 4
         },
         {
             "submitId": 1234,
-            "username": "test_29",
+            "username": "NewbieCup2019_29",
             "alphabetId": "B",
             "subTime": "2019-11-10  13:50:34",
             "resultId": 4
@@ -8410,7 +8627,7 @@
         },
         {
             "submitId": 1236,
-            "username": "test_29",
+            "username": "NewbieCup2019_29",
             "alphabetId": "B",
             "subTime": "2019-11-10  13:50:27",
             "resultId": 4
@@ -8445,7 +8662,7 @@
         },
         {
             "submitId": 1241,
-            "username": "test_16",
+            "username": "NewbieCup2019_16",
             "alphabetId": "M",
             "subTime": "2019-11-10  13:49:49",
             "resultId": 0
@@ -8487,14 +8704,14 @@
         },
         {
             "submitId": 1247,
-            "username": "test_30",
+            "username": "NewbieCup2019_30",
             "alphabetId": "I",
             "subTime": "2019-11-10  13:48:59",
             "resultId": 0
         },
         {
             "submitId": 1248,
-            "username": "test_25",
+            "username": "NewbieCup2019_25",
             "alphabetId": "H",
             "subTime": "2019-11-10  13:48:48",
             "resultId": 4
@@ -8521,6 +8738,13 @@
             "resultId": 4
         },
         {
+            "submitId": 1252,
+            "username": "NewbieCup2019_31",
+            "alphabetId": "M",
+            "subTime": "2019-11-10  13:47:56",
+            "resultId": 4
+        },
+        {
             "submitId": 1253,
             "username": "NewbieCup2019_42",
             "alphabetId": "M",
@@ -8529,7 +8753,7 @@
         },
         {
             "submitId": 1254,
-            "username": "test_16",
+            "username": "NewbieCup2019_16",
             "alphabetId": "L",
             "subTime": "2019-11-10  13:47:42",
             "resultId": 4
@@ -8571,14 +8795,14 @@
         },
         {
             "submitId": 1260,
-            "username": "test_18",
+            "username": "NewbieCup2019_18",
             "alphabetId": "B",
             "subTime": "2019-11-10  13:47:01",
             "resultId": 4
         },
         {
             "submitId": 1261,
-            "username": "test_25",
+            "username": "NewbieCup2019_25",
             "alphabetId": "H",
             "subTime": "2019-11-10  13:46:55",
             "resultId": 4
@@ -8620,7 +8844,7 @@
         },
         {
             "submitId": 1267,
-            "username": "test_17",
+            "username": "NewbieCup2019_17",
             "alphabetId": "H",
             "subTime": "2019-11-10  13:46:17",
             "resultId": 4
@@ -8634,14 +8858,14 @@
         },
         {
             "submitId": 1269,
-            "username": "test_8",
+            "username": "NewbieCup2019_8",
             "alphabetId": "M",
             "subTime": "2019-11-10  13:46:13",
             "resultId": 4
         },
         {
             "submitId": 1270,
-            "username": "test_18",
+            "username": "NewbieCup2019_18",
             "alphabetId": "B",
             "subTime": "2019-11-10  13:46:04",
             "resultId": 4
@@ -8683,7 +8907,7 @@
         },
         {
             "submitId": 1276,
-            "username": "test_2",
+            "username": "NewbieCup2019_2",
             "alphabetId": "I",
             "subTime": "2019-11-10  13:45:43",
             "resultId": 0
@@ -8767,7 +8991,7 @@
         },
         {
             "submitId": 1288,
-            "username": "test_9",
+            "username": "NewbieCup2019_9",
             "alphabetId": "G",
             "subTime": "2019-11-10  13:44:05",
             "resultId": 4
@@ -8809,7 +9033,7 @@
         },
         {
             "submitId": 1294,
-            "username": "test_30",
+            "username": "NewbieCup2019_30",
             "alphabetId": "I",
             "subTime": "2019-11-10  13:43:20",
             "resultId": 4
@@ -8865,14 +9089,14 @@
         },
         {
             "submitId": 1302,
-            "username": "test_21",
+            "username": "NewbieCup2019_21",
             "alphabetId": "M",
             "subTime": "2019-11-10  13:42:16",
             "resultId": 0
         },
         {
             "submitId": 1303,
-            "username": "test_9",
+            "username": "NewbieCup2019_9",
             "alphabetId": "G",
             "subTime": "2019-11-10  13:42:15",
             "resultId": 4
@@ -8893,7 +9117,7 @@
         },
         {
             "submitId": 1306,
-            "username": "test_21",
+            "username": "NewbieCup2019_21",
             "alphabetId": "M",
             "subTime": "2019-11-10  13:41:55",
             "resultId": 4
@@ -8935,7 +9159,7 @@
         },
         {
             "submitId": 1312,
-            "username": "test_9",
+            "username": "NewbieCup2019_9",
             "alphabetId": "G",
             "subTime": "2019-11-10  13:41:27",
             "resultId": 4
@@ -8949,14 +9173,14 @@
         },
         {
             "submitId": 1314,
-            "username": "test_9",
+            "username": "NewbieCup2019_9",
             "alphabetId": "G",
             "subTime": "2019-11-10  13:41:16",
             "resultId": 4
         },
         {
             "submitId": 1315,
-            "username": "test_30",
+            "username": "NewbieCup2019_30",
             "alphabetId": "I",
             "subTime": "2019-11-10  13:41:14",
             "resultId": 4
@@ -8970,7 +9194,7 @@
         },
         {
             "submitId": 1317,
-            "username": "test_16",
+            "username": "NewbieCup2019_16",
             "alphabetId": "L",
             "subTime": "2019-11-10  13:41:10",
             "resultId": 4
@@ -8991,14 +9215,14 @@
         },
         {
             "submitId": 1320,
-            "username": "test_9",
+            "username": "NewbieCup2019_9",
             "alphabetId": "G",
             "subTime": "2019-11-10  13:40:58",
             "resultId": 4
         },
         {
             "submitId": 1321,
-            "username": "test_9",
+            "username": "NewbieCup2019_9",
             "alphabetId": "E",
             "subTime": "2019-11-10  13:40:41",
             "resultId": 4
@@ -9026,7 +9250,7 @@
         },
         {
             "submitId": 1325,
-            "username": "test_16",
+            "username": "NewbieCup2019_16",
             "alphabetId": "L",
             "subTime": "2019-11-10  13:40:03",
             "resultId": 4
@@ -9061,7 +9285,7 @@
         },
         {
             "submitId": 1330,
-            "username": "test_18",
+            "username": "NewbieCup2019_18",
             "alphabetId": "M",
             "subTime": "2019-11-10  13:39:09",
             "resultId": 0
@@ -9082,7 +9306,7 @@
         },
         {
             "submitId": 1333,
-            "username": "test_9",
+            "username": "NewbieCup2019_9",
             "alphabetId": "G",
             "subTime": "2019-11-10  13:38:22",
             "resultId": 4
@@ -9103,14 +9327,14 @@
         },
         {
             "submitId": 1336,
-            "username": "test_29",
+            "username": "NewbieCup2019_29",
             "alphabetId": "B",
             "subTime": "2019-11-10  13:38:12",
             "resultId": 4
         },
         {
             "submitId": 1337,
-            "username": "test_25",
+            "username": "NewbieCup2019_25",
             "alphabetId": "H",
             "subTime": "2019-11-10  13:38:11",
             "resultId": 4
@@ -9145,7 +9369,7 @@
         },
         {
             "submitId": 1342,
-            "username": "test_7",
+            "username": "NewbieCup2019_7",
             "alphabetId": "D",
             "subTime": "2019-11-10  13:37:37",
             "resultId": 4
@@ -9159,7 +9383,7 @@
         },
         {
             "submitId": 1344,
-            "username": "test_25",
+            "username": "NewbieCup2019_25",
             "alphabetId": "H",
             "subTime": "2019-11-10  13:36:48",
             "resultId": 4
@@ -9173,7 +9397,7 @@
         },
         {
             "submitId": 1346,
-            "username": "test_30",
+            "username": "NewbieCup2019_30",
             "alphabetId": "G",
             "subTime": "2019-11-10  13:36:18",
             "resultId": 4
@@ -9194,7 +9418,7 @@
         },
         {
             "submitId": 1349,
-            "username": "test_14",
+            "username": "NewbieCup2019_14",
             "alphabetId": "E",
             "subTime": "2019-11-10  13:36:01",
             "resultId": 4
@@ -9222,14 +9446,14 @@
         },
         {
             "submitId": 1353,
-            "username": "test_14",
+            "username": "NewbieCup2019_14",
             "alphabetId": "E",
             "subTime": "2019-11-10  13:35:20",
             "resultId": 4
         },
         {
             "submitId": 1354,
-            "username": "test_26",
+            "username": "NewbieCup2019_26",
             "alphabetId": "B",
             "subTime": "2019-11-10  13:35:03",
             "resultId": 0
@@ -9271,7 +9495,7 @@
         },
         {
             "submitId": 1360,
-            "username": "test_8",
+            "username": "NewbieCup2019_8",
             "alphabetId": "M",
             "subTime": "2019-11-10  13:34:46",
             "resultId": 4
@@ -9299,7 +9523,7 @@
         },
         {
             "submitId": 1364,
-            "username": "test_16",
+            "username": "NewbieCup2019_16",
             "alphabetId": "L",
             "subTime": "2019-11-10  13:34:24",
             "resultId": 4
@@ -9320,7 +9544,7 @@
         },
         {
             "submitId": 1367,
-            "username": "test_8",
+            "username": "NewbieCup2019_8",
             "alphabetId": "M",
             "subTime": "2019-11-10  13:34:13",
             "resultId": 4
@@ -9348,7 +9572,7 @@
         },
         {
             "submitId": 1371,
-            "username": "test_25",
+            "username": "NewbieCup2019_25",
             "alphabetId": "H",
             "subTime": "2019-11-10  13:33:47",
             "resultId": 4
@@ -9362,7 +9586,7 @@
         },
         {
             "submitId": 1373,
-            "username": "test_22",
+            "username": "NewbieCup2019_22",
             "alphabetId": "B",
             "subTime": "2019-11-10  13:33:34",
             "resultId": 0
@@ -9383,7 +9607,7 @@
         },
         {
             "submitId": 1376,
-            "username": "test_23",
+            "username": "NewbieCup2019_23",
             "alphabetId": "B",
             "subTime": "2019-11-10  13:32:34",
             "resultId": 4
@@ -9418,7 +9642,7 @@
         },
         {
             "submitId": 1381,
-            "username": "test_27",
+            "username": "NewbieCup2019_27",
             "alphabetId": "G",
             "subTime": "2019-11-10  13:32:14",
             "resultId": 4
@@ -9446,14 +9670,14 @@
         },
         {
             "submitId": 1385,
-            "username": "test_2",
+            "username": "NewbieCup2019_2",
             "alphabetId": "E",
             "subTime": "2019-11-10  13:31:53",
             "resultId": 0
         },
         {
             "submitId": 1386,
-            "username": "test_2",
+            "username": "NewbieCup2019_2",
             "alphabetId": "E",
             "subTime": "2019-11-10  13:31:39",
             "resultId": 4
@@ -9467,7 +9691,7 @@
         },
         {
             "submitId": 1388,
-            "username": "test_25",
+            "username": "NewbieCup2019_25",
             "alphabetId": "H",
             "subTime": "2019-11-10  13:31:16",
             "resultId": 4
@@ -9488,7 +9712,7 @@
         },
         {
             "submitId": 1391,
-            "username": "test_7",
+            "username": "NewbieCup2019_7",
             "alphabetId": "D",
             "subTime": "2019-11-10  13:31:08",
             "resultId": 4
@@ -9523,14 +9747,14 @@
         },
         {
             "submitId": 1396,
-            "username": "test_19",
+            "username": "NewbieCup2019_19",
             "alphabetId": "L",
             "subTime": "2019-11-10  13:30:06",
             "resultId": 4
         },
         {
             "submitId": 1397,
-            "username": "test_12",
+            "username": "NewbieCup2019_12",
             "alphabetId": "H",
             "subTime": "2019-11-10  13:30:01",
             "resultId": 4
@@ -9593,21 +9817,21 @@
         },
         {
             "submitId": 1406,
-            "username": "test_16",
+            "username": "NewbieCup2019_16",
             "alphabetId": "L",
             "subTime": "2019-11-10  13:28:10",
             "resultId": 4
         },
         {
             "submitId": 1407,
-            "username": "test_17",
+            "username": "NewbieCup2019_17",
             "alphabetId": "M",
             "subTime": "2019-11-10  13:28:09",
             "resultId": 0
         },
         {
             "submitId": 1408,
-            "username": "test_21",
+            "username": "NewbieCup2019_21",
             "alphabetId": "D",
             "subTime": "2019-11-10  13:27:47",
             "resultId": 4
@@ -9621,7 +9845,7 @@
         },
         {
             "submitId": 1410,
-            "username": "test_27",
+            "username": "NewbieCup2019_27",
             "alphabetId": "G",
             "subTime": "2019-11-10  13:27:41",
             "resultId": 4
@@ -9642,7 +9866,7 @@
         },
         {
             "submitId": 1413,
-            "username": "test_8",
+            "username": "NewbieCup2019_8",
             "alphabetId": "M",
             "subTime": "2019-11-10  13:27:20",
             "resultId": 4
@@ -9677,7 +9901,7 @@
         },
         {
             "submitId": 1418,
-            "username": "test_9",
+            "username": "NewbieCup2019_9",
             "alphabetId": "E",
             "subTime": "2019-11-10  13:26:44",
             "resultId": 4
@@ -9747,7 +9971,7 @@
         },
         {
             "submitId": 1428,
-            "username": "test_23",
+            "username": "NewbieCup2019_23",
             "alphabetId": "M",
             "subTime": "2019-11-10  13:26:22",
             "resultId": 4
@@ -9767,6 +9991,13 @@
             "resultId": 0
         },
         {
+            "submitId": 1431,
+            "username": "NewbieCup2019_31",
+            "alphabetId": "M",
+            "subTime": "2019-11-10  13:25:56",
+            "resultId": 4
+        },
+        {
             "submitId": 1432,
             "username": "NewbieCup2019_43",
             "alphabetId": "H",
@@ -9775,10 +10006,17 @@
         },
         {
             "submitId": 1433,
-            "username": "test_8",
+            "username": "NewbieCup2019_8",
             "alphabetId": "M",
             "subTime": "2019-11-10  13:25:51",
             "resultId": 4
+        },
+        {
+            "submitId": 1434,
+            "username": "NewbieCup2019_68",
+            "alphabetId": "A",
+            "subTime": "2019-11-10  13:25:50",
+            "resultId": 0
         },
         {
             "submitId": 1435,
@@ -9817,14 +10055,14 @@
         },
         {
             "submitId": 1440,
-            "username": "test_29",
+            "username": "NewbieCup2019_29",
             "alphabetId": "A",
             "subTime": "2019-11-10  13:25:31",
             "resultId": 0
         },
         {
             "submitId": 1441,
-            "username": "test_8",
+            "username": "NewbieCup2019_8",
             "alphabetId": "A",
             "subTime": "2019-11-10  13:25:25",
             "resultId": 0
@@ -9838,7 +10076,7 @@
         },
         {
             "submitId": 1443,
-            "username": "test_29",
+            "username": "NewbieCup2019_29",
             "alphabetId": "A",
             "subTime": "2019-11-10  13:24:54",
             "resultId": 4
@@ -9859,7 +10097,7 @@
         },
         {
             "submitId": 1446,
-            "username": "test_5",
+            "username": "NewbieCup2019_5",
             "alphabetId": "C",
             "subTime": "2019-11-10  13:24:35",
             "resultId": 0
@@ -9873,7 +10111,7 @@
         },
         {
             "submitId": 1448,
-            "username": "test_29",
+            "username": "NewbieCup2019_29",
             "alphabetId": "A",
             "subTime": "2019-11-10  13:24:29",
             "resultId": 4
@@ -9886,6 +10124,13 @@
             "resultId": 4
         },
         {
+            "submitId": 1450,
+            "username": "NewbieCup2019_31",
+            "alphabetId": "M",
+            "subTime": "2019-11-10  13:24:15",
+            "resultId": 4
+        },
+        {
             "submitId": 1451,
             "username": "NewbieCup2019_43",
             "alphabetId": "H",
@@ -9894,7 +10139,7 @@
         },
         {
             "submitId": 1452,
-            "username": "test_17",
+            "username": "NewbieCup2019_17",
             "alphabetId": "M",
             "subTime": "2019-11-10  13:24:10",
             "resultId": 4
@@ -9964,7 +10209,7 @@
         },
         {
             "submitId": 1462,
-            "username": "test_8",
+            "username": "NewbieCup2019_8",
             "alphabetId": "A",
             "subTime": "2019-11-10  13:22:10",
             "resultId": 4
@@ -10069,7 +10314,7 @@
         },
         {
             "submitId": 1477,
-            "username": "test_23",
+            "username": "NewbieCup2019_23",
             "alphabetId": "B",
             "subTime": "2019-11-10  13:19:54",
             "resultId": 4
@@ -10118,7 +10363,7 @@
         },
         {
             "submitId": 1484,
-            "username": "test_13",
+            "username": "NewbieCup2019_13",
             "alphabetId": "B",
             "subTime": "2019-11-10  13:19:01",
             "resultId": 4
@@ -10174,7 +10419,7 @@
         },
         {
             "submitId": 1492,
-            "username": "test_17",
+            "username": "NewbieCup2019_17",
             "alphabetId": "H",
             "subTime": "2019-11-10  13:17:30",
             "resultId": 4
@@ -10223,7 +10468,7 @@
         },
         {
             "submitId": 1499,
-            "username": "test_23",
+            "username": "NewbieCup2019_23",
             "alphabetId": "B",
             "subTime": "2019-11-10  13:16:17",
             "resultId": 4
@@ -10237,7 +10482,7 @@
         },
         {
             "submitId": 1501,
-            "username": "test_10",
+            "username": "NewbieCup2019_10",
             "alphabetId": "M",
             "subTime": "2019-11-10  13:16:07",
             "resultId": 0
@@ -10251,7 +10496,7 @@
         },
         {
             "submitId": 1503,
-            "username": "test_17",
+            "username": "NewbieCup2019_17",
             "alphabetId": "H",
             "subTime": "2019-11-10  13:15:36",
             "resultId": 4
@@ -10279,7 +10524,7 @@
         },
         {
             "submitId": 1507,
-            "username": "test_9",
+            "username": "NewbieCup2019_9",
             "alphabetId": "C",
             "subTime": "2019-11-10  13:14:35",
             "resultId": 0
@@ -10293,7 +10538,7 @@
         },
         {
             "submitId": 1509,
-            "username": "test_9",
+            "username": "NewbieCup2019_9",
             "alphabetId": "C",
             "subTime": "2019-11-10  13:14:29",
             "resultId": 0
@@ -10314,7 +10559,7 @@
         },
         {
             "submitId": 1512,
-            "username": "test_16",
+            "username": "NewbieCup2019_16",
             "alphabetId": "I",
             "subTime": "2019-11-10  13:14:06",
             "resultId": 0
@@ -10341,8 +10586,15 @@
             "resultId": 4
         },
         {
+            "submitId": 1516,
+            "username": "NewbieCup2019_1",
+            "alphabetId": "G",
+            "subTime": "2019-11-10  13:13:24",
+            "resultId": 0
+        },
+        {
             "submitId": 1517,
-            "username": "test_11",
+            "username": "NewbieCup2019_11",
             "alphabetId": "H",
             "subTime": "2019-11-10  13:13:24",
             "resultId": 4
@@ -10363,7 +10615,7 @@
         },
         {
             "submitId": 1520,
-            "username": "test_16",
+            "username": "NewbieCup2019_16",
             "alphabetId": "I",
             "subTime": "2019-11-10  13:12:32",
             "resultId": 4
@@ -10384,21 +10636,21 @@
         },
         {
             "submitId": 1523,
-            "username": "test_16",
+            "username": "NewbieCup2019_16",
             "alphabetId": "I",
             "subTime": "2019-11-10  13:12:07",
             "resultId": 4
         },
         {
             "submitId": 1524,
-            "username": "test_17",
+            "username": "NewbieCup2019_17",
             "alphabetId": "H",
             "subTime": "2019-11-10  13:11:56",
             "resultId": 4
         },
         {
             "submitId": 1525,
-            "username": "test_14",
+            "username": "NewbieCup2019_14",
             "alphabetId": "I",
             "subTime": "2019-11-10  13:11:53",
             "resultId": 4
@@ -10412,7 +10664,7 @@
         },
         {
             "submitId": 1527,
-            "username": "test_27",
+            "username": "NewbieCup2019_27",
             "alphabetId": "G",
             "subTime": "2019-11-10  13:10:38",
             "resultId": 4
@@ -10440,14 +10692,14 @@
         },
         {
             "submitId": 1531,
-            "username": "test_2",
+            "username": "NewbieCup2019_2",
             "alphabetId": "I",
             "subTime": "2019-11-10  13:09:21",
             "resultId": 4
         },
         {
             "submitId": 1532,
-            "username": "test_10",
+            "username": "NewbieCup2019_10",
             "alphabetId": "C",
             "subTime": "2019-11-10  13:09:18",
             "resultId": 0
@@ -10495,6 +10747,13 @@
             "resultId": 4
         },
         {
+            "submitId": 1539,
+            "username": "NewbieCup2019_31",
+            "alphabetId": "A",
+            "subTime": "2019-11-10  13:08:21",
+            "resultId": 4
+        },
+        {
             "submitId": 1540,
             "username": "NewbieCup2019_99",
             "alphabetId": "B",
@@ -10530,8 +10789,15 @@
             "resultId": 4
         },
         {
+            "submitId": 1545,
+            "username": "NewbieCup2019_1",
+            "alphabetId": "B",
+            "subTime": "2019-11-10  13:07:34",
+            "resultId": 0
+        },
+        {
             "submitId": 1546,
-            "username": "test_2",
+            "username": "NewbieCup2019_2",
             "alphabetId": "I",
             "subTime": "2019-11-10  13:07:31",
             "resultId": 4
@@ -10545,7 +10811,7 @@
         },
         {
             "submitId": 1548,
-            "username": "test_30",
+            "username": "NewbieCup2019_30",
             "alphabetId": "M",
             "subTime": "2019-11-10  13:07:10",
             "resultId": 0
@@ -10559,14 +10825,14 @@
         },
         {
             "submitId": 1550,
-            "username": "test_4",
+            "username": "NewbieCup2019_4",
             "alphabetId": "M",
             "subTime": "2019-11-10  13:06:54",
             "resultId": 4
         },
         {
             "submitId": 1551,
-            "username": "test_7",
+            "username": "NewbieCup2019_7",
             "alphabetId": "I",
             "subTime": "2019-11-10  13:06:50",
             "resultId": 0
@@ -10615,7 +10881,7 @@
         },
         {
             "submitId": 1558,
-            "username": "test_19",
+            "username": "NewbieCup2019_19",
             "alphabetId": "I",
             "subTime": "2019-11-10  13:05:39",
             "resultId": 4
@@ -10629,14 +10895,14 @@
         },
         {
             "submitId": 1560,
-            "username": "test_14",
+            "username": "NewbieCup2019_14",
             "alphabetId": "I",
             "subTime": "2019-11-10  13:05:29",
             "resultId": 4
         },
         {
             "submitId": 1561,
-            "username": "test_9",
+            "username": "NewbieCup2019_9",
             "alphabetId": "A",
             "subTime": "2019-11-10  13:05:22",
             "resultId": 4
@@ -10678,7 +10944,7 @@
         },
         {
             "submitId": 1567,
-            "username": "test_5",
+            "username": "NewbieCup2019_5",
             "alphabetId": "I",
             "subTime": "2019-11-10  13:03:44",
             "resultId": 0
@@ -10706,21 +10972,21 @@
         },
         {
             "submitId": 1571,
-            "username": "test_9",
+            "username": "NewbieCup2019_9",
             "alphabetId": "A",
             "subTime": "2019-11-10  13:03:01",
             "resultId": 4
         },
         {
             "submitId": 1572,
-            "username": "test_7",
+            "username": "NewbieCup2019_7",
             "alphabetId": "I",
             "subTime": "2019-11-10  13:02:58",
             "resultId": 4
         },
         {
             "submitId": 1573,
-            "username": "test_19",
+            "username": "NewbieCup2019_19",
             "alphabetId": "I",
             "subTime": "2019-11-10  13:02:56",
             "resultId": 4
@@ -10734,14 +11000,14 @@
         },
         {
             "submitId": 1575,
-            "username": "test_2",
+            "username": "NewbieCup2019_2",
             "alphabetId": "I",
             "subTime": "2019-11-10  13:02:36",
             "resultId": 4
         },
         {
             "submitId": 1576,
-            "username": "test_23",
+            "username": "NewbieCup2019_23",
             "alphabetId": "B",
             "subTime": "2019-11-10  13:02:25",
             "resultId": 4
@@ -10783,7 +11049,7 @@
         },
         {
             "submitId": 1582,
-            "username": "test_9",
+            "username": "NewbieCup2019_9",
             "alphabetId": "A",
             "subTime": "2019-11-10  13:01:40",
             "resultId": 4
@@ -10797,7 +11063,7 @@
         },
         {
             "submitId": 1584,
-            "username": "test_15",
+            "username": "NewbieCup2019_15",
             "alphabetId": "A",
             "subTime": "2019-11-10  13:01:39",
             "resultId": 4
@@ -10818,7 +11084,7 @@
         },
         {
             "submitId": 1587,
-            "username": "test_15",
+            "username": "NewbieCup2019_15",
             "alphabetId": "A",
             "subTime": "2019-11-10  13:01:15",
             "resultId": 4
@@ -10832,35 +11098,35 @@
         },
         {
             "submitId": 1589,
-            "username": "test_5",
+            "username": "NewbieCup2019_5",
             "alphabetId": "I",
             "subTime": "2019-11-10  13:01:04",
             "resultId": 4
         },
         {
             "submitId": 1590,
-            "username": "test_15",
+            "username": "NewbieCup2019_15",
             "alphabetId": "A",
             "subTime": "2019-11-10  13:00:54",
             "resultId": 4
         },
         {
             "submitId": 1591,
-            "username": "test_30",
+            "username": "NewbieCup2019_30",
             "alphabetId": "G",
             "subTime": "2019-11-10  13:00:47",
             "resultId": 4
         },
         {
             "submitId": 1592,
-            "username": "test_19",
+            "username": "NewbieCup2019_19",
             "alphabetId": "K",
             "subTime": "2019-11-10  13:00:44",
             "resultId": 4
         },
         {
             "submitId": 1593,
-            "username": "test_9",
+            "username": "NewbieCup2019_9",
             "alphabetId": "A",
             "subTime": "2019-11-10  13:00:43",
             "resultId": 4
@@ -10888,7 +11154,7 @@
         },
         {
             "submitId": 1597,
-            "username": "test_27",
+            "username": "NewbieCup2019_27",
             "alphabetId": "G",
             "subTime": "2019-11-10  12:59:58",
             "resultId": 4
@@ -10898,6 +11164,13 @@
             "username": "NewbieCup2019_35",
             "alphabetId": "C",
             "subTime": "2019-11-10  12:59:51",
+            "resultId": 4
+        },
+        {
+            "submitId": 1599,
+            "username": "NewbieCup2019_31",
+            "alphabetId": "A",
+            "subTime": "2019-11-10  12:59:39",
             "resultId": 4
         },
         {
@@ -10937,7 +11210,7 @@
         },
         {
             "submitId": 1605,
-            "username": "test_15",
+            "username": "NewbieCup2019_15",
             "alphabetId": "A",
             "subTime": "2019-11-10  12:58:42",
             "resultId": 4
@@ -10972,14 +11245,14 @@
         },
         {
             "submitId": 1610,
-            "username": "test_15",
+            "username": "NewbieCup2019_15",
             "alphabetId": "A",
             "subTime": "2019-11-10  12:58:11",
             "resultId": 4
         },
         {
             "submitId": 1611,
-            "username": "test_7",
+            "username": "NewbieCup2019_7",
             "alphabetId": "I",
             "subTime": "2019-11-10  12:58:00",
             "resultId": 4
@@ -11014,14 +11287,14 @@
         },
         {
             "submitId": 1616,
-            "username": "test_2",
+            "username": "NewbieCup2019_2",
             "alphabetId": "I",
             "subTime": "2019-11-10  12:56:50",
             "resultId": 4
         },
         {
             "submitId": 1617,
-            "username": "test_15",
+            "username": "NewbieCup2019_15",
             "alphabetId": "A",
             "subTime": "2019-11-10  12:56:44",
             "resultId": 4
@@ -11035,7 +11308,7 @@
         },
         {
             "submitId": 1619,
-            "username": "test_8",
+            "username": "NewbieCup2019_8",
             "alphabetId": "M",
             "subTime": "2019-11-10  12:56:42",
             "resultId": 4
@@ -11045,6 +11318,13 @@
             "username": "NewbieCup2019_88",
             "alphabetId": "M",
             "subTime": "2019-11-10  12:56:37",
+            "resultId": 4
+        },
+        {
+            "submitId": 1621,
+            "username": "NewbieCup2019_68",
+            "alphabetId": "L",
+            "subTime": "2019-11-10  12:56:29",
             "resultId": 4
         },
         {
@@ -11077,7 +11357,7 @@
         },
         {
             "submitId": 1626,
-            "username": "test_8",
+            "username": "NewbieCup2019_8",
             "alphabetId": "M",
             "subTime": "2019-11-10  12:55:59",
             "resultId": 4
@@ -11105,14 +11385,14 @@
         },
         {
             "submitId": 1630,
-            "username": "test_8",
+            "username": "NewbieCup2019_8",
             "alphabetId": "M",
             "subTime": "2019-11-10  12:55:36",
             "resultId": 4
         },
         {
             "submitId": 1631,
-            "username": "test_7",
+            "username": "NewbieCup2019_7",
             "alphabetId": "I",
             "subTime": "2019-11-10  12:55:32",
             "resultId": 4
@@ -11126,7 +11406,7 @@
         },
         {
             "submitId": 1633,
-            "username": "test_9",
+            "username": "NewbieCup2019_9",
             "alphabetId": "E",
             "subTime": "2019-11-10  12:55:19",
             "resultId": 4
@@ -11147,7 +11427,7 @@
         },
         {
             "submitId": 1636,
-            "username": "test_9",
+            "username": "NewbieCup2019_9",
             "alphabetId": "E",
             "subTime": "2019-11-10  12:54:56",
             "resultId": 4
@@ -11175,14 +11455,14 @@
         },
         {
             "submitId": 1640,
-            "username": "test_2",
+            "username": "NewbieCup2019_2",
             "alphabetId": "I",
             "subTime": "2019-11-10  12:54:24",
             "resultId": 4
         },
         {
             "submitId": 1641,
-            "username": "test_9",
+            "username": "NewbieCup2019_9",
             "alphabetId": "E",
             "subTime": "2019-11-10  12:54:20",
             "resultId": 4
@@ -11195,6 +11475,13 @@
             "resultId": 4
         },
         {
+            "submitId": 1643,
+            "username": "NewbieCup2019_1",
+            "alphabetId": "G",
+            "subTime": "2019-11-10  12:54:12",
+            "resultId": 4
+        },
+        {
             "submitId": 1644,
             "username": "NewbieCup2019_102",
             "alphabetId": "B",
@@ -11203,14 +11490,14 @@
         },
         {
             "submitId": 1645,
-            "username": "test_8",
+            "username": "NewbieCup2019_8",
             "alphabetId": "M",
             "subTime": "2019-11-10  12:54:08",
             "resultId": 4
         },
         {
             "submitId": 1646,
-            "username": "test_9",
+            "username": "NewbieCup2019_9",
             "alphabetId": "E",
             "subTime": "2019-11-10  12:54:05",
             "resultId": 4
@@ -11224,7 +11511,7 @@
         },
         {
             "submitId": 1648,
-            "username": "test_24",
+            "username": "NewbieCup2019_24",
             "alphabetId": "M",
             "subTime": "2019-11-10  12:54:00",
             "resultId": 0
@@ -11279,8 +11566,15 @@
             "resultId": 4
         },
         {
+            "submitId": 1656,
+            "username": "NewbieCup2019_1",
+            "alphabetId": "G",
+            "subTime": "2019-11-10  12:52:47",
+            "resultId": 4
+        },
+        {
             "submitId": 1657,
-            "username": "test_2",
+            "username": "NewbieCup2019_2",
             "alphabetId": "I",
             "subTime": "2019-11-10  12:52:39",
             "resultId": 4
@@ -11297,6 +11591,13 @@
             "username": "NewbieCup2019_54",
             "alphabetId": "D",
             "subTime": "2019-11-10  12:52:08",
+            "resultId": 4
+        },
+        {
+            "submitId": 1660,
+            "username": "NewbieCup2019_68",
+            "alphabetId": "L",
+            "subTime": "2019-11-10  12:52:05",
             "resultId": 4
         },
         {
@@ -11336,7 +11637,7 @@
         },
         {
             "submitId": 1666,
-            "username": "test_8",
+            "username": "NewbieCup2019_8",
             "alphabetId": "M",
             "subTime": "2019-11-10  12:51:25",
             "resultId": 4
@@ -11357,7 +11658,7 @@
         },
         {
             "submitId": 1669,
-            "username": "test_8",
+            "username": "NewbieCup2019_8",
             "alphabetId": "M",
             "subTime": "2019-11-10  12:51:10",
             "resultId": 4
@@ -11385,23 +11686,37 @@
         },
         {
             "submitId": 1673,
-            "username": "test_16",
+            "username": "NewbieCup2019_16",
             "alphabetId": "E",
             "subTime": "2019-11-10  12:49:54",
             "resultId": 0
         },
         {
             "submitId": 1674,
-            "username": "test_7",
+            "username": "NewbieCup2019_7",
             "alphabetId": "I",
             "subTime": "2019-11-10  12:49:50",
             "resultId": 4
         },
         {
             "submitId": 1675,
-            "username": "test_15",
+            "username": "NewbieCup2019_15",
             "alphabetId": "M",
             "subTime": "2019-11-10  12:49:46",
+            "resultId": 4
+        },
+        {
+            "submitId": 1676,
+            "username": "NewbieCup2019_31",
+            "alphabetId": "A",
+            "subTime": "2019-11-10  12:49:45",
+            "resultId": 4
+        },
+        {
+            "submitId": 1677,
+            "username": "NewbieCup2019_68",
+            "alphabetId": "L",
+            "subTime": "2019-11-10  12:49:44",
             "resultId": 4
         },
         {
@@ -11427,9 +11742,16 @@
         },
         {
             "submitId": 1681,
-            "username": "test_15",
+            "username": "NewbieCup2019_15",
             "alphabetId": "M",
             "subTime": "2019-11-10  12:49:12",
+            "resultId": 4
+        },
+        {
+            "submitId": 1682,
+            "username": "NewbieCup2019_68",
+            "alphabetId": "L",
+            "subTime": "2019-11-10  12:49:08",
             "resultId": 4
         },
         {
@@ -11455,7 +11777,7 @@
         },
         {
             "submitId": 1686,
-            "username": "test_8",
+            "username": "NewbieCup2019_8",
             "alphabetId": "M",
             "subTime": "2019-11-10  12:48:16",
             "resultId": 4
@@ -11469,9 +11791,16 @@
         },
         {
             "submitId": 1688,
-            "username": "test_8",
+            "username": "NewbieCup2019_8",
             "alphabetId": "M",
             "subTime": "2019-11-10  12:48:03",
+            "resultId": 4
+        },
+        {
+            "submitId": 1689,
+            "username": "NewbieCup2019_68",
+            "alphabetId": "L",
+            "subTime": "2019-11-10  12:47:59",
             "resultId": 4
         },
         {
@@ -11504,7 +11833,7 @@
         },
         {
             "submitId": 1694,
-            "username": "test_25",
+            "username": "NewbieCup2019_25",
             "alphabetId": "C",
             "subTime": "2019-11-10  12:47:42",
             "resultId": 4
@@ -11525,7 +11854,7 @@
         },
         {
             "submitId": 1697,
-            "username": "test_15",
+            "username": "NewbieCup2019_15",
             "alphabetId": "M",
             "subTime": "2019-11-10  12:46:43",
             "resultId": 4
@@ -11546,7 +11875,7 @@
         },
         {
             "submitId": 1700,
-            "username": "test_15",
+            "username": "NewbieCup2019_15",
             "alphabetId": "M",
             "subTime": "2019-11-10  12:46:29",
             "resultId": 4
@@ -11560,7 +11889,7 @@
         },
         {
             "submitId": 1702,
-            "username": "test_15",
+            "username": "NewbieCup2019_15",
             "alphabetId": "M",
             "subTime": "2019-11-10  12:46:12",
             "resultId": 4
@@ -11588,21 +11917,21 @@
         },
         {
             "submitId": 1706,
-            "username": "test_25",
+            "username": "NewbieCup2019_25",
             "alphabetId": "C",
             "subTime": "2019-11-10  12:45:54",
             "resultId": 4
         },
         {
             "submitId": 1707,
-            "username": "test_15",
+            "username": "NewbieCup2019_15",
             "alphabetId": "M",
             "subTime": "2019-11-10  12:45:45",
             "resultId": 4
         },
         {
             "submitId": 1708,
-            "username": "test_24",
+            "username": "NewbieCup2019_24",
             "alphabetId": "A",
             "subTime": "2019-11-10  12:45:39",
             "resultId": 0
@@ -11615,8 +11944,15 @@
             "resultId": 4
         },
         {
+            "submitId": 1710,
+            "username": "NewbieCup2019_1",
+            "alphabetId": "E",
+            "subTime": "2019-11-10  12:45:33",
+            "resultId": 0
+        },
+        {
             "submitId": 1711,
-            "username": "test_4",
+            "username": "NewbieCup2019_4",
             "alphabetId": "A",
             "subTime": "2019-11-10  12:45:27",
             "resultId": 0
@@ -11644,7 +11980,7 @@
         },
         {
             "submitId": 1715,
-            "username": "test_23",
+            "username": "NewbieCup2019_23",
             "alphabetId": "M",
             "subTime": "2019-11-10  12:44:44",
             "resultId": 4
@@ -11658,7 +11994,7 @@
         },
         {
             "submitId": 1717,
-            "username": "test_8",
+            "username": "NewbieCup2019_8",
             "alphabetId": "M",
             "subTime": "2019-11-10  12:43:55",
             "resultId": 4
@@ -11672,7 +12008,7 @@
         },
         {
             "submitId": 1719,
-            "username": "test_9",
+            "username": "NewbieCup2019_9",
             "alphabetId": "A",
             "subTime": "2019-11-10  12:43:48",
             "resultId": 4
@@ -11700,7 +12036,7 @@
         },
         {
             "submitId": 1723,
-            "username": "test_14",
+            "username": "NewbieCup2019_14",
             "alphabetId": "I",
             "subTime": "2019-11-10  12:43:34",
             "resultId": 4
@@ -11714,7 +12050,7 @@
         },
         {
             "submitId": 1725,
-            "username": "test_15",
+            "username": "NewbieCup2019_15",
             "alphabetId": "M",
             "subTime": "2019-11-10  12:43:31",
             "resultId": 4
@@ -11735,14 +12071,14 @@
         },
         {
             "submitId": 1728,
-            "username": "test_23",
+            "username": "NewbieCup2019_23",
             "alphabetId": "M",
             "subTime": "2019-11-10  12:43:08",
             "resultId": 4
         },
         {
             "submitId": 1729,
-            "username": "test_15",
+            "username": "NewbieCup2019_15",
             "alphabetId": "M",
             "subTime": "2019-11-10  12:43:00",
             "resultId": 4
@@ -11770,14 +12106,14 @@
         },
         {
             "submitId": 1733,
-            "username": "test_8",
+            "username": "NewbieCup2019_8",
             "alphabetId": "M",
             "subTime": "2019-11-10  12:42:38",
             "resultId": 4
         },
         {
             "submitId": 1734,
-            "username": "test_8",
+            "username": "NewbieCup2019_8",
             "alphabetId": "M",
             "subTime": "2019-11-10  12:42:30",
             "resultId": 4
@@ -11791,9 +12127,16 @@
         },
         {
             "submitId": 1736,
-            "username": "test_15",
+            "username": "NewbieCup2019_15",
             "alphabetId": "M",
             "subTime": "2019-11-10  12:42:11",
+            "resultId": 4
+        },
+        {
+            "submitId": 1737,
+            "username": "NewbieCup2019_31",
+            "alphabetId": "M",
+            "subTime": "2019-11-10  12:41:49",
             "resultId": 4
         },
         {
@@ -11805,14 +12148,14 @@
         },
         {
             "submitId": 1739,
-            "username": "test_15",
+            "username": "NewbieCup2019_15",
             "alphabetId": "M",
             "subTime": "2019-11-10  12:41:39",
             "resultId": 4
         },
         {
             "submitId": 1740,
-            "username": "test_8",
+            "username": "NewbieCup2019_8",
             "alphabetId": "M",
             "subTime": "2019-11-10  12:41:36",
             "resultId": 4
@@ -11826,7 +12169,7 @@
         },
         {
             "submitId": 1742,
-            "username": "test_24",
+            "username": "NewbieCup2019_24",
             "alphabetId": "M",
             "subTime": "2019-11-10  12:41:13",
             "resultId": 4
@@ -11854,21 +12197,21 @@
         },
         {
             "submitId": 1746,
-            "username": "test_9",
+            "username": "NewbieCup2019_9",
             "alphabetId": "M",
             "subTime": "2019-11-10  12:40:52",
             "resultId": 0
         },
         {
             "submitId": 1747,
-            "username": "test_9",
+            "username": "NewbieCup2019_9",
             "alphabetId": "M",
             "subTime": "2019-11-10  12:40:47",
             "resultId": 0
         },
         {
             "submitId": 1748,
-            "username": "test_15",
+            "username": "NewbieCup2019_15",
             "alphabetId": "M",
             "subTime": "2019-11-10  12:40:39",
             "resultId": 4
@@ -11882,7 +12225,7 @@
         },
         {
             "submitId": 1750,
-            "username": "test_8",
+            "username": "NewbieCup2019_8",
             "alphabetId": "M",
             "subTime": "2019-11-10  12:40:24",
             "resultId": 4
@@ -11896,7 +12239,7 @@
         },
         {
             "submitId": 1752,
-            "username": "test_10",
+            "username": "NewbieCup2019_10",
             "alphabetId": "A",
             "subTime": "2019-11-10  12:40:13",
             "resultId": 0
@@ -11917,14 +12260,14 @@
         },
         {
             "submitId": 1755,
-            "username": "test_11",
+            "username": "NewbieCup2019_11",
             "alphabetId": "M",
             "subTime": "2019-11-10  12:39:58",
             "resultId": 0
         },
         {
             "submitId": 1756,
-            "username": "test_8",
+            "username": "NewbieCup2019_8",
             "alphabetId": "M",
             "subTime": "2019-11-10  12:39:33",
             "resultId": 4
@@ -11952,7 +12295,7 @@
         },
         {
             "submitId": 1760,
-            "username": "test_8",
+            "username": "NewbieCup2019_8",
             "alphabetId": "M",
             "subTime": "2019-11-10  12:39:02",
             "resultId": 4
@@ -11966,7 +12309,7 @@
         },
         {
             "submitId": 1762,
-            "username": "test_9",
+            "username": "NewbieCup2019_9",
             "alphabetId": "M",
             "subTime": "2019-11-10  12:38:52",
             "resultId": 4
@@ -12029,7 +12372,7 @@
         },
         {
             "submitId": 1771,
-            "username": "test_23",
+            "username": "NewbieCup2019_23",
             "alphabetId": "M",
             "subTime": "2019-11-10  12:37:49",
             "resultId": 4
@@ -12050,14 +12393,14 @@
         },
         {
             "submitId": 1774,
-            "username": "test_14",
+            "username": "NewbieCup2019_14",
             "alphabetId": "I",
             "subTime": "2019-11-10  12:37:17",
             "resultId": 4
         },
         {
             "submitId": 1775,
-            "username": "test_24",
+            "username": "NewbieCup2019_24",
             "alphabetId": "M",
             "subTime": "2019-11-10  12:37:02",
             "resultId": 4
@@ -12078,7 +12421,7 @@
         },
         {
             "submitId": 1778,
-            "username": "test_9",
+            "username": "NewbieCup2019_9",
             "alphabetId": "M",
             "subTime": "2019-11-10  12:36:24",
             "resultId": 4
@@ -12092,21 +12435,21 @@
         },
         {
             "submitId": 1780,
-            "username": "test_15",
+            "username": "NewbieCup2019_15",
             "alphabetId": "M",
             "subTime": "2019-11-10  12:36:08",
             "resultId": 4
         },
         {
             "submitId": 1781,
-            "username": "test_7",
+            "username": "NewbieCup2019_7",
             "alphabetId": "G",
             "subTime": "2019-11-10  12:36:00",
             "resultId": 0
         },
         {
             "submitId": 1782,
-            "username": "test_15",
+            "username": "NewbieCup2019_15",
             "alphabetId": "M",
             "subTime": "2019-11-10  12:35:53",
             "resultId": 4
@@ -12120,7 +12463,7 @@
         },
         {
             "submitId": 1784,
-            "username": "test_12",
+            "username": "NewbieCup2019_12",
             "alphabetId": "A",
             "subTime": "2019-11-10  12:34:29",
             "resultId": 0
@@ -12134,35 +12477,35 @@
         },
         {
             "submitId": 1786,
-            "username": "test_9",
+            "username": "NewbieCup2019_9",
             "alphabetId": "M",
             "subTime": "2019-11-10  12:34:27",
             "resultId": 4
         },
         {
             "submitId": 1787,
-            "username": "test_9",
+            "username": "NewbieCup2019_9",
             "alphabetId": "M",
             "subTime": "2019-11-10  12:34:24",
             "resultId": 4
         },
         {
             "submitId": 1788,
-            "username": "test_9",
+            "username": "NewbieCup2019_9",
             "alphabetId": "M",
             "subTime": "2019-11-10  12:34:23",
             "resultId": 4
         },
         {
             "submitId": 1789,
-            "username": "test_9",
+            "username": "NewbieCup2019_9",
             "alphabetId": "M",
             "subTime": "2019-11-10  12:34:23",
             "resultId": 4
         },
         {
             "submitId": 1790,
-            "username": "test_9",
+            "username": "NewbieCup2019_9",
             "alphabetId": "M",
             "subTime": "2019-11-10  12:34:21",
             "resultId": 4
@@ -12197,14 +12540,14 @@
         },
         {
             "submitId": 1795,
-            "username": "test_4",
+            "username": "NewbieCup2019_4",
             "alphabetId": "M",
             "subTime": "2019-11-10  12:32:53",
             "resultId": 4
         },
         {
             "submitId": 1796,
-            "username": "test_5",
+            "username": "NewbieCup2019_5",
             "alphabetId": "B",
             "subTime": "2019-11-10  12:32:50",
             "resultId": 0
@@ -12232,7 +12575,7 @@
         },
         {
             "submitId": 1800,
-            "username": "test_9",
+            "username": "NewbieCup2019_9",
             "alphabetId": "M",
             "subTime": "2019-11-10  12:32:04",
             "resultId": 4
@@ -12253,7 +12596,7 @@
         },
         {
             "submitId": 1803,
-            "username": "test_9",
+            "username": "NewbieCup2019_9",
             "alphabetId": "M",
             "subTime": "2019-11-10  12:31:57",
             "resultId": 4
@@ -12273,8 +12616,15 @@
             "resultId": 4
         },
         {
+            "submitId": 1806,
+            "username": "NewbieCup2019_31",
+            "alphabetId": "M",
+            "subTime": "2019-11-10  12:31:44",
+            "resultId": 4
+        },
+        {
             "submitId": 1807,
-            "username": "test_10",
+            "username": "NewbieCup2019_10",
             "alphabetId": "M",
             "subTime": "2019-11-10  12:31:27",
             "resultId": 4
@@ -12288,7 +12638,7 @@
         },
         {
             "submitId": 1809,
-            "username": "test_9",
+            "username": "NewbieCup2019_9",
             "alphabetId": "M",
             "subTime": "2019-11-10  12:31:13",
             "resultId": 4
@@ -12308,8 +12658,15 @@
             "resultId": 4
         },
         {
+            "submitId": 1812,
+            "username": "NewbieCup2019_1",
+            "alphabetId": "I",
+            "subTime": "2019-11-10  12:30:43",
+            "resultId": 0
+        },
+        {
             "submitId": 1813,
-            "username": "test_9",
+            "username": "NewbieCup2019_9",
             "alphabetId": "M",
             "subTime": "2019-11-10  12:30:33",
             "resultId": 4
@@ -12344,7 +12701,7 @@
         },
         {
             "submitId": 1818,
-            "username": "test_9",
+            "username": "NewbieCup2019_9",
             "alphabetId": "M",
             "subTime": "2019-11-10  12:29:50",
             "resultId": 4
@@ -12372,21 +12729,21 @@
         },
         {
             "submitId": 1822,
-            "username": "test_10",
+            "username": "NewbieCup2019_10",
             "alphabetId": "M",
             "subTime": "2019-11-10  12:28:51",
             "resultId": 4
         },
         {
             "submitId": 1823,
-            "username": "test_18",
+            "username": "NewbieCup2019_18",
             "alphabetId": "M",
             "subTime": "2019-11-10  12:28:41",
             "resultId": 4
         },
         {
             "submitId": 1824,
-            "username": "test_7",
+            "username": "NewbieCup2019_7",
             "alphabetId": "E",
             "subTime": "2019-11-10  12:28:41",
             "resultId": 0
@@ -12421,7 +12778,7 @@
         },
         {
             "submitId": 1829,
-            "username": "test_23",
+            "username": "NewbieCup2019_23",
             "alphabetId": "M",
             "subTime": "2019-11-10  12:27:41",
             "resultId": 4
@@ -12442,7 +12799,7 @@
         },
         {
             "submitId": 1832,
-            "username": "test_9",
+            "username": "NewbieCup2019_9",
             "alphabetId": "M",
             "subTime": "2019-11-10  12:27:14",
             "resultId": 4
@@ -12463,7 +12820,7 @@
         },
         {
             "submitId": 1835,
-            "username": "test_9",
+            "username": "NewbieCup2019_9",
             "alphabetId": "M",
             "subTime": "2019-11-10  12:26:39",
             "resultId": 4
@@ -12477,16 +12834,23 @@
         },
         {
             "submitId": 1837,
-            "username": "test_9",
+            "username": "NewbieCup2019_9",
             "alphabetId": "M",
             "subTime": "2019-11-10  12:26:32",
             "resultId": 4
         },
         {
             "submitId": 1838,
-            "username": "test_15",
+            "username": "NewbieCup2019_15",
             "alphabetId": "M",
             "subTime": "2019-11-10  12:26:31",
+            "resultId": 4
+        },
+        {
+            "submitId": 1839,
+            "username": "NewbieCup2019_1",
+            "alphabetId": "I",
+            "subTime": "2019-11-10  12:26:08",
             "resultId": 4
         },
         {
@@ -12498,7 +12862,7 @@
         },
         {
             "submitId": 1841,
-            "username": "test_2",
+            "username": "NewbieCup2019_2",
             "alphabetId": "C",
             "subTime": "2019-11-10  12:25:49",
             "resultId": 0
@@ -12519,7 +12883,7 @@
         },
         {
             "submitId": 1844,
-            "username": "test_18",
+            "username": "NewbieCup2019_18",
             "alphabetId": "M",
             "subTime": "2019-11-10  12:25:28",
             "resultId": 4
@@ -12539,6 +12903,13 @@
             "resultId": 4
         },
         {
+            "submitId": 1847,
+            "username": "NewbieCup2019_68",
+            "alphabetId": "M",
+            "subTime": "2019-11-10  12:25:02",
+            "resultId": 0
+        },
+        {
             "submitId": 1848,
             "username": "NewbieCup2019_124",
             "alphabetId": "M",
@@ -12554,14 +12925,14 @@
         },
         {
             "submitId": 1850,
-            "username": "test_8",
+            "username": "NewbieCup2019_8",
             "alphabetId": "M",
             "subTime": "2019-11-10  12:24:54",
             "resultId": 4
         },
         {
             "submitId": 1851,
-            "username": "test_15",
+            "username": "NewbieCup2019_15",
             "alphabetId": "M",
             "subTime": "2019-11-10  12:24:36",
             "resultId": 4
@@ -12582,7 +12953,7 @@
         },
         {
             "submitId": 1854,
-            "username": "test_30",
+            "username": "NewbieCup2019_30",
             "alphabetId": "C",
             "subTime": "2019-11-10  12:24:21",
             "resultId": 0
@@ -12596,14 +12967,14 @@
         },
         {
             "submitId": 1856,
-            "username": "test_9",
+            "username": "NewbieCup2019_9",
             "alphabetId": "M",
             "subTime": "2019-11-10  12:24:05",
             "resultId": 4
         },
         {
             "submitId": 1857,
-            "username": "test_2",
+            "username": "NewbieCup2019_2",
             "alphabetId": "C",
             "subTime": "2019-11-10  12:23:52",
             "resultId": 4
@@ -12613,6 +12984,13 @@
             "username": "NewbieCup2019_54",
             "alphabetId": "M",
             "subTime": "2019-11-10  12:23:45",
+            "resultId": 4
+        },
+        {
+            "submitId": 1859,
+            "username": "NewbieCup2019_1",
+            "alphabetId": "I",
+            "subTime": "2019-11-10  12:23:42",
             "resultId": 4
         },
         {
@@ -12638,21 +13016,28 @@
         },
         {
             "submitId": 1863,
-            "username": "test_4",
+            "username": "NewbieCup2019_4",
             "alphabetId": "M",
             "subTime": "2019-11-10  12:23:03",
             "resultId": 4
         },
         {
             "submitId": 1864,
-            "username": "test_15",
+            "username": "NewbieCup2019_15",
             "alphabetId": "M",
             "subTime": "2019-11-10  12:22:39",
             "resultId": 4
         },
         {
+            "submitId": 1865,
+            "username": "NewbieCup2019_31",
+            "alphabetId": "A",
+            "subTime": "2019-11-10  12:22:19",
+            "resultId": 4
+        },
+        {
             "submitId": 1866,
-            "username": "test_14",
+            "username": "NewbieCup2019_14",
             "alphabetId": "G",
             "subTime": "2019-11-10  12:22:12",
             "resultId": 4
@@ -12666,7 +13051,7 @@
         },
         {
             "submitId": 1868,
-            "username": "test_23",
+            "username": "NewbieCup2019_23",
             "alphabetId": "M",
             "subTime": "2019-11-10  12:21:53",
             "resultId": 4
@@ -12680,7 +13065,7 @@
         },
         {
             "submitId": 1870,
-            "username": "test_26",
+            "username": "NewbieCup2019_26",
             "alphabetId": "A",
             "subTime": "2019-11-10  12:21:49",
             "resultId": 0
@@ -12694,28 +13079,28 @@
         },
         {
             "submitId": 1872,
-            "username": "test_8",
+            "username": "NewbieCup2019_8",
             "alphabetId": "M",
             "subTime": "2019-11-10  12:20:54",
             "resultId": 4
         },
         {
             "submitId": 1873,
-            "username": "test_14",
+            "username": "NewbieCup2019_14",
             "alphabetId": "G",
             "subTime": "2019-11-10  12:20:38",
             "resultId": 4
         },
         {
             "submitId": 1874,
-            "username": "test_13",
+            "username": "NewbieCup2019_13",
             "alphabetId": "A",
             "subTime": "2019-11-10  12:20:35",
             "resultId": 0
         },
         {
             "submitId": 1875,
-            "username": "test_23",
+            "username": "NewbieCup2019_23",
             "alphabetId": "M",
             "subTime": "2019-11-10  12:20:31",
             "resultId": 4
@@ -12750,14 +13135,14 @@
         },
         {
             "submitId": 1880,
-            "username": "test_10",
+            "username": "NewbieCup2019_10",
             "alphabetId": "M",
             "subTime": "2019-11-10  12:19:57",
             "resultId": 4
         },
         {
             "submitId": 1881,
-            "username": "test_13",
+            "username": "NewbieCup2019_13",
             "alphabetId": "A",
             "subTime": "2019-11-10  12:19:53",
             "resultId": 4
@@ -12771,14 +13156,14 @@
         },
         {
             "submitId": 1883,
-            "username": "test_8",
+            "username": "NewbieCup2019_8",
             "alphabetId": "M",
             "subTime": "2019-11-10  12:19:44",
             "resultId": 4
         },
         {
             "submitId": 1884,
-            "username": "test_13",
+            "username": "NewbieCup2019_13",
             "alphabetId": "A",
             "subTime": "2019-11-10  12:19:41",
             "resultId": 4
@@ -12820,7 +13205,7 @@
         },
         {
             "submitId": 1890,
-            "username": "test_10",
+            "username": "NewbieCup2019_10",
             "alphabetId": "M",
             "subTime": "2019-11-10  12:18:50",
             "resultId": 4
@@ -12841,7 +13226,7 @@
         },
         {
             "submitId": 1893,
-            "username": "test_9",
+            "username": "NewbieCup2019_9",
             "alphabetId": "A",
             "subTime": "2019-11-10  12:17:29",
             "resultId": 4
@@ -12869,7 +13254,7 @@
         },
         {
             "submitId": 1897,
-            "username": "test_14",
+            "username": "NewbieCup2019_14",
             "alphabetId": "B",
             "subTime": "2019-11-10  12:16:39",
             "resultId": 0
@@ -12883,7 +13268,7 @@
         },
         {
             "submitId": 1899,
-            "username": "test_15",
+            "username": "NewbieCup2019_15",
             "alphabetId": "M",
             "subTime": "2019-11-10  12:16:19",
             "resultId": 4
@@ -12904,7 +13289,7 @@
         },
         {
             "submitId": 1902,
-            "username": "test_9",
+            "username": "NewbieCup2019_9",
             "alphabetId": "A",
             "subTime": "2019-11-10  12:16:04",
             "resultId": 4
@@ -12924,22 +13309,29 @@
             "resultId": 4
         },
         {
+            "submitId": 1905,
+            "username": "NewbieCup2019_1",
+            "alphabetId": "B",
+            "subTime": "2019-11-10  12:15:57",
+            "resultId": 4
+        },
+        {
             "submitId": 1906,
-            "username": "test_26",
+            "username": "NewbieCup2019_26",
             "alphabetId": "H",
             "subTime": "2019-11-10  12:15:56",
             "resultId": 4
         },
         {
             "submitId": 1907,
-            "username": "test_12",
+            "username": "NewbieCup2019_12",
             "alphabetId": "H",
             "subTime": "2019-11-10  12:15:56",
             "resultId": 4
         },
         {
             "submitId": 1908,
-            "username": "test_15",
+            "username": "NewbieCup2019_15",
             "alphabetId": "M",
             "subTime": "2019-11-10  12:15:55",
             "resultId": 4
@@ -12953,7 +13345,7 @@
         },
         {
             "submitId": 1910,
-            "username": "test_9",
+            "username": "NewbieCup2019_9",
             "alphabetId": "A",
             "subTime": "2019-11-10  12:15:51",
             "resultId": 4
@@ -12967,7 +13359,7 @@
         },
         {
             "submitId": 1912,
-            "username": "test_23",
+            "username": "NewbieCup2019_23",
             "alphabetId": "M",
             "subTime": "2019-11-10  12:15:45",
             "resultId": 4
@@ -12981,28 +13373,28 @@
         },
         {
             "submitId": 1914,
-            "username": "test_19",
+            "username": "NewbieCup2019_19",
             "alphabetId": "M",
             "subTime": "2019-11-10  12:15:29",
             "resultId": 0
         },
         {
             "submitId": 1915,
-            "username": "test_9",
+            "username": "NewbieCup2019_9",
             "alphabetId": "A",
             "subTime": "2019-11-10  12:15:28",
             "resultId": 4
         },
         {
             "submitId": 1916,
-            "username": "test_15",
+            "username": "NewbieCup2019_15",
             "alphabetId": "M",
             "subTime": "2019-11-10  12:15:07",
             "resultId": 4
         },
         {
             "submitId": 1917,
-            "username": "test_11",
+            "username": "NewbieCup2019_11",
             "alphabetId": "A",
             "subTime": "2019-11-10  12:14:59",
             "resultId": 0
@@ -13044,7 +13436,7 @@
         },
         {
             "submitId": 1923,
-            "username": "test_15",
+            "username": "NewbieCup2019_15",
             "alphabetId": "M",
             "subTime": "2019-11-10  12:14:11",
             "resultId": 4
@@ -13058,21 +13450,21 @@
         },
         {
             "submitId": 1925,
-            "username": "test_30",
+            "username": "NewbieCup2019_30",
             "alphabetId": "B",
             "subTime": "2019-11-10  12:13:52",
             "resultId": 4
         },
         {
             "submitId": 1926,
-            "username": "test_7",
+            "username": "NewbieCup2019_7",
             "alphabetId": "M",
             "subTime": "2019-11-10  12:13:47",
             "resultId": 0
         },
         {
             "submitId": 1927,
-            "username": "test_2",
+            "username": "NewbieCup2019_2",
             "alphabetId": "B",
             "subTime": "2019-11-10  12:13:40",
             "resultId": 0
@@ -13100,7 +13492,7 @@
         },
         {
             "submitId": 1931,
-            "username": "test_23",
+            "username": "NewbieCup2019_23",
             "alphabetId": "M",
             "subTime": "2019-11-10  12:13:18",
             "resultId": 4
@@ -13114,7 +13506,7 @@
         },
         {
             "submitId": 1933,
-            "username": "test_14",
+            "username": "NewbieCup2019_14",
             "alphabetId": "C",
             "subTime": "2019-11-10  12:12:55",
             "resultId": 0
@@ -13135,7 +13527,7 @@
         },
         {
             "submitId": 1936,
-            "username": "test_8",
+            "username": "NewbieCup2019_8",
             "alphabetId": "M",
             "subTime": "2019-11-10  12:12:40",
             "resultId": 4
@@ -13212,7 +13604,7 @@
         },
         {
             "submitId": 1947,
-            "username": "test_4",
+            "username": "NewbieCup2019_4",
             "alphabetId": "M",
             "subTime": "2019-11-10  12:12:00",
             "resultId": 4
@@ -13338,7 +13730,7 @@
         },
         {
             "submitId": 1965,
-            "username": "test_7",
+            "username": "NewbieCup2019_7",
             "alphabetId": "C",
             "subTime": "2019-11-10  12:10:35",
             "resultId": 0
@@ -13366,7 +13758,7 @@
         },
         {
             "submitId": 1969,
-            "username": "test_22",
+            "username": "NewbieCup2019_22",
             "alphabetId": "A",
             "subTime": "2019-11-10  12:10:15",
             "resultId": 0
@@ -13387,7 +13779,7 @@
         },
         {
             "submitId": 1972,
-            "username": "test_13",
+            "username": "NewbieCup2019_13",
             "alphabetId": "M",
             "subTime": "2019-11-10  12:09:36",
             "resultId": 0
@@ -13401,14 +13793,14 @@
         },
         {
             "submitId": 1974,
-            "username": "test_16",
+            "username": "NewbieCup2019_16",
             "alphabetId": "C",
             "subTime": "2019-11-10  12:09:12",
             "resultId": 0
         },
         {
             "submitId": 1975,
-            "username": "test_16",
+            "username": "NewbieCup2019_16",
             "alphabetId": "C",
             "subTime": "2019-11-10  12:09:12",
             "resultId": 0
@@ -13471,7 +13863,7 @@
         },
         {
             "submitId": 1984,
-            "username": "test_13",
+            "username": "NewbieCup2019_13",
             "alphabetId": "M",
             "subTime": "2019-11-10  12:08:13",
             "resultId": 4
@@ -13527,14 +13919,14 @@
         },
         {
             "submitId": 1992,
-            "username": "test_13",
+            "username": "NewbieCup2019_13",
             "alphabetId": "M",
             "subTime": "2019-11-10  12:06:46",
             "resultId": 4
         },
         {
             "submitId": 1993,
-            "username": "test_30",
+            "username": "NewbieCup2019_30",
             "alphabetId": "A",
             "subTime": "2019-11-10  12:06:36",
             "resultId": 0
@@ -13555,35 +13947,42 @@
         },
         {
             "submitId": 1996,
-            "username": "test_21",
+            "username": "NewbieCup2019_21",
             "alphabetId": "A",
             "subTime": "2019-11-10  12:05:51",
             "resultId": 0
         },
         {
             "submitId": 1997,
-            "username": "test_7",
+            "username": "NewbieCup2019_7",
             "alphabetId": "B",
             "subTime": "2019-11-10  12:05:46",
             "resultId": 0
         },
         {
             "submitId": 1998,
-            "username": "test_13",
+            "username": "NewbieCup2019_13",
             "alphabetId": "M",
             "subTime": "2019-11-10  12:05:45",
             "resultId": 4
         },
         {
             "submitId": 1999,
-            "username": "test_25",
+            "username": "NewbieCup2019_25",
             "alphabetId": "A",
             "subTime": "2019-11-10  12:05:39",
             "resultId": 0
         },
         {
+            "submitId": 2000,
+            "username": "NewbieCup2019_1",
+            "alphabetId": "C",
+            "subTime": "2019-11-10  12:05:34",
+            "resultId": 0
+        },
+        {
             "submitId": 2001,
-            "username": "test_4",
+            "username": "NewbieCup2019_4",
             "alphabetId": "M",
             "subTime": "2019-11-10  12:05:31",
             "resultId": 4
@@ -13611,21 +14010,21 @@
         },
         {
             "submitId": 2005,
-            "username": "test_19",
+            "username": "NewbieCup2019_19",
             "alphabetId": "A",
             "subTime": "2019-11-10  12:04:47",
             "resultId": 0
         },
         {
             "submitId": 2006,
-            "username": "test_12",
+            "username": "NewbieCup2019_12",
             "alphabetId": "M",
             "subTime": "2019-11-10  12:04:45",
             "resultId": 0
         },
         {
             "submitId": 2007,
-            "username": "test_19",
+            "username": "NewbieCup2019_19",
             "alphabetId": "A",
             "subTime": "2019-11-10  12:04:44",
             "resultId": 0
@@ -13646,7 +14045,7 @@
         },
         {
             "submitId": 2010,
-            "username": "test_2",
+            "username": "NewbieCup2019_2",
             "alphabetId": "M",
             "subTime": "2019-11-10  12:04:40",
             "resultId": 0
@@ -13667,35 +14066,35 @@
         },
         {
             "submitId": 2013,
-            "username": "test_4",
+            "username": "NewbieCup2019_4",
             "alphabetId": "M",
             "subTime": "2019-11-10  12:04:34",
             "resultId": 4
         },
         {
             "submitId": 2014,
-            "username": "test_27",
+            "username": "NewbieCup2019_27",
             "alphabetId": "A",
             "subTime": "2019-11-10  12:04:26",
             "resultId": 0
         },
         {
             "submitId": 2015,
-            "username": "test_22",
+            "username": "NewbieCup2019_22",
             "alphabetId": "M",
             "subTime": "2019-11-10  12:04:23",
             "resultId": 0
         },
         {
             "submitId": 2016,
-            "username": "test_17",
+            "username": "NewbieCup2019_17",
             "alphabetId": "A",
             "subTime": "2019-11-10  12:04:14",
             "resultId": 0
         },
         {
             "submitId": 2017,
-            "username": "test_26",
+            "username": "NewbieCup2019_26",
             "alphabetId": "M",
             "subTime": "2019-11-10  12:03:47",
             "resultId": 0
@@ -13708,6 +14107,13 @@
             "resultId": 4
         },
         {
+            "submitId": 2019,
+            "username": "NewbieCup2019_1",
+            "alphabetId": "M",
+            "subTime": "2019-11-10  12:03:40",
+            "resultId": 0
+        },
+        {
             "submitId": 2020,
             "username": "NewbieCup2019_59",
             "alphabetId": "M",
@@ -13716,21 +14122,21 @@
         },
         {
             "submitId": 2021,
-            "username": "test_5",
+            "username": "NewbieCup2019_5",
             "alphabetId": "A",
             "subTime": "2019-11-10  12:03:14",
             "resultId": 0
         },
         {
             "submitId": 2022,
-            "username": "test_14",
+            "username": "NewbieCup2019_14",
             "alphabetId": "A",
             "subTime": "2019-11-10  12:02:44",
             "resultId": 0
         },
         {
             "submitId": 2023,
-            "username": "test_7",
+            "username": "NewbieCup2019_7",
             "alphabetId": "A",
             "subTime": "2019-11-10  12:02:43",
             "resultId": 0
@@ -13779,28 +14185,28 @@
         },
         {
             "submitId": 2030,
-            "username": "test_25",
+            "username": "NewbieCup2019_25",
             "alphabetId": "M",
             "subTime": "2019-11-10  12:02:02",
             "resultId": 0
         },
         {
             "submitId": 2031,
-            "username": "test_12",
+            "username": "NewbieCup2019_12",
             "alphabetId": "M",
             "subTime": "2019-11-10  12:01:56",
             "resultId": 4
         },
         {
             "submitId": 2032,
-            "username": "test_2",
+            "username": "NewbieCup2019_2",
             "alphabetId": "A",
             "subTime": "2019-11-10  12:01:31",
             "resultId": 0
         },
         {
             "submitId": 2033,
-            "username": "test_5",
+            "username": "NewbieCup2019_5",
             "alphabetId": "M",
             "subTime": "2019-11-10  12:01:29",
             "resultId": 0
@@ -13814,7 +14220,7 @@
         },
         {
             "submitId": 2035,
-            "username": "test_16",
+            "username": "NewbieCup2019_16",
             "alphabetId": "A",
             "subTime": "2019-11-10  12:00:47",
             "resultId": 0
@@ -13828,9 +14234,16 @@
         },
         {
             "submitId": 2037,
-            "username": "test_14",
+            "username": "NewbieCup2019_14",
             "alphabetId": "M",
             "subTime": "2019-11-10  12:00:22",
+            "resultId": 0
+        },
+        {
+            "submitId": 2038,
+            "username": "NewbieCup2019_1",
+            "alphabetId": "A",
+            "subTime": "2019-11-10  12:00:04",
             "resultId": 0
         }
     ]
