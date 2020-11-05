@@ -536,10 +536,10 @@ Board.prototype.showInitBoard = function() {
     for (var i = 0; i < this.teamCount; ++i) {
         //var teamId = this.teamList[this.teamNowSequence[i]].teamId;
         var teamId = this.teamNowSequence[i].teamId;
-        $("div[team-id=\"" + teamId + "\"]").stop().animate({ top: i * teamHeight + headerHeight }, 300);
+        $("div[team-id=\"" + teamId + "\"]").stop().animate({ top: i * teamHeight + headerHeight }, 150);
     }
     //移到底部
-    $("#team-void").stop().animate({ top: this.teamCount * teamHeight + headerHeight }, 300);
+    $("#team-void").stop().animate({ top: this.teamCount * teamHeight + headerHeight }, 150);
 }
 
 /**
@@ -587,12 +587,12 @@ Board.prototype.updateTeamStatus = function(team) {
                 $('body,html').stop().animate({
                         scrollTop: teamTopHeight
                     },
-                    500);
+                    150);
 
                 //传参，不懂原理，用此可以在动画的回调函数使用参数
                 (function(thisBoard, tProblem, problemHTML) {
                     //闪烁两次后显示未知题目的结果
-                    var speed = 200; //闪烁速度
+                    var speed = 100; //闪烁速度
                     $statusSpan.fadeOut(speed).fadeIn(speed).fadeOut(speed).fadeIn(speed, function() {
                         //更新题目表现状态
                         $(this).parent().html(problemHTML);
@@ -605,7 +605,7 @@ Board.prototype.updateTeamStatus = function(team) {
     //传参，不懂原理，用此可以在动画的回调函数使用参数
     (function(thisBoard, team) {
         //延时1.6s
-        $('#timer').animate({ margin: 0 }, 500, function() {
+        $('#timer').animate({ margin: 0 }, 150, function() {
 
             /*
             更新Rank
@@ -669,11 +669,11 @@ Board.prototype.moveTeam = function(toPos) {
             var teamId = thisBoard.teamNextSequence[i].teamId;
             //延时2.2s后更新位置，为了等待题目状态更新完成
             if(toPos != -1)
-                $("div[team-id=\"" + teamId + "\"]").animate({ margin: 0 }, 1100).animate({ top: i * teamHeight + headerHeight }, 1000, function() {
+                $("div[team-id=\"" + teamId + "\"]").animate({ margin: 0 }, 300).animate({ top: i * teamHeight + headerHeight }, 300, function() {
                     thisBoard.noAnimate = true;
                 });
             else
-                $("div[team-id=\"" + teamId + "\"]").animate({ margin: 0 }, 900,function() {
+                $("div[team-id=\"" + teamId + "\"]").animate({ margin: 0 }, 300,function() {
                     thisBoard.noAnimate = true;
                 });
         }

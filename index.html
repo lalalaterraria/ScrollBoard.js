@@ -22,15 +22,17 @@
 		new Board(problemCount, medalCounts, startTime, freezeBoardTime)
 		Borad类构造方法：参数依次为题目数、奖牌数数组（分别为金银铜）、比赛开始时间、比赛封榜时间。
 		
+		注意 时间需要是两位数的！！！
 		*/
-		var board = new Board(13, new Array(10, 0, 0), StringToDate("2019-11-10 12:00:00"), StringToDate("2019-11-10 16:00:00"));
+		var board = new Board(7, new Array(10, 0, 0), StringToDate("2020-11-05 15:00:00"), StringToDate("2020-11-05 16:00:00"));
 		
 	    board.showInitBoard();
 	    $('html').keydown(function(e) {
 	        if (e.keyCode == 13) {
 	            board.keydown();
 	        }
-	    });
+		});
+
     </script>
 </body>
 
